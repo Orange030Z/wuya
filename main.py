@@ -3,6 +3,7 @@ import urllib3
 import socket
 import os
 import base64
+import yaml
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -12,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 UUID = os.getenv("MY_UUID", "3afad5df-e056-4301-846d-665b4ef51968")
 HOST = os.getenv("MY_HOST", "x.kkii.eu.org")
 MAX_WORKERS = 15 
-SUFFIX = " @schpd_chat" # 编号后面加了空格
+SUFFIX = " @schpd_chat"
 # -------------------------------
 
 def check_ip_port(ip, port):
@@ -28,7 +29,7 @@ def check_ip_port(ip, port):
 def process_region(code, name):
     api_url = f"https://proxyip.881288.xyz/api/txt/{code}"
     headers = {'User-Agent': 'v2rayN/6.23'}
-    region_nodes = []
+    nodes_data = []
     try:
         res = requests.get(api_url, headers=headers, verify=False, timeout=10)
         if res.status_code == 200:
@@ -38,18 +39,21 @@ def process_region(code, name):
                     addr, raw_memo = line.split("#")
                     ip, port = addr.split(":")
                     if check_ip_port(ip, port):
-                        dynamic_path = f"/{ip}:{port}"
-                        
-                        # --- 【优化：地区+编号+空格+后缀】 ---
                         idx_str = str(index + 1).zfill(2)
                         node_name = f"{name}{idx_str}{SUFFIX}"
-                        # -----------------------------------
-
-                        vless = f"vless://{UUID}@{ip}:{port}?encryption=none&security=tls&sni={HOST}&type=ws&host={HOST}&path={dynamic_path}#{node_name}"
-                        region_nodes.append(vless)
+                        path = f"/{ip}:{port}"
+                        
+                        # 存储节点结构化数据
+                        nodes_data.append({
+                            "name": node_name,
+                            "ip": ip,
+                            "port": int(port),
+                            "path": path,
+                            "raw_url": f"vless://{UUID}@{ip}:{port}?encryption=none&security=tls&sni={HOST}&type=ws&host={HOST}&path={path}#{node_name}"
+                        })
     except:
         pass
-    return region_nodes
+    return nodes_data
 
 def main():
     region_map = {
@@ -66,22 +70,57 @@ def main():
         "IL": "以色列", "IR": "伊朗", "IQ": "伊拉克"
     }
 
-    all_nodes = []
+    all_nodes_info = []
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(process_region, c, n): n for c, n in region_map.items()}
         for future in as_completed(futures):
-            all_nodes.extend(future.result())
+            all_nodes_info.extend(future.result())
 
-    if all_nodes:
-        # 保存明文
+    if all_nodes_info:
+        # 1. 生成 v2rayNG 格式 (nodes.txt 和 sub.txt)
+        raw_urls = [n['raw_url'] for n in all_nodes_info]
         with open("nodes.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(all_nodes))
-        
-        # 保存订阅版
+            f.write("\n".join(raw_urls))
         with open("sub.txt", "w", encoding="utf-8") as f:
-            b64_content = base64.b64encode("\n".join(all_nodes).encode("utf-8")).decode("utf-8")
-            f.write(b64_content)
-        print(f"成功更新 {len(all_nodes)} 个节点")
+            f.write(base64.b64encode("\n".join(raw_urls).encode("utf-8")).decode("utf-8"))
+
+        # 2. 生成 Clash 专用格式 (clash.yaml)
+        proxies = []
+        for n in all_nodes_info:
+            proxies.append({
+                "name": n['name'],
+                "type": "vless",
+                "server": n['ip'],
+                "port": n['port'],
+                "uuid": UUID,
+                "cipher": "auto",
+                "tls": True,
+                "udp": True,
+                "servername": HOST,
+                "network": "ws",
+                "ws-opts": {
+                    "path": n['path'],
+                    "headers": {"Host": HOST}
+                }
+            })
+        
+        clash_config = {
+            "port": 7890,
+            "allow-lan": True,
+            "mode": "rule",
+            "log-level": "info",
+            "proxies": proxies,
+            "proxy-groups": [
+                {"name": "🚀 节点选择", "type": "select", "proxies": ["⚡ 自动选择"] + [p['name'] for p in proxies]},
+                {"name": "⚡ 自动选择", "type": "url-test", "proxies": [p['name'] for p in proxies], "url": "http://www.gstatic.com/generate_204", "interval": 300}
+            ],
+            "rules": ["MATCH,🚀 节点选择"]
+        }
+        
+        with open("clash.yaml", "w", encoding="utf-8") as f:
+            yaml.dump(clash_config, f, allow_unicode=True, sort_keys=False)
+            
+        print(f"成功更新 {len(all_nodes_info)} 个节点")
 
 if __name__ == "__main__":
     main()
