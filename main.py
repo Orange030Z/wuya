@@ -12,7 +12,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 UUID = os.getenv("MY_UUID", "3afad5df-e056-4301-846d-665b4ef51968")
 HOST = os.getenv("MY_HOST", "x.kkii.eu.org")
 MAX_WORKERS = 15 
-SUFFIX = "@schpd_chat" # 你要求的后缀
+SUFFIX = " @schpd_chat" # 编号后面加了空格
 # -------------------------------
 
 def check_ip_port(ip, port):
@@ -40,12 +40,10 @@ def process_region(code, name):
                     if check_ip_port(ip, port):
                         dynamic_path = f"/{ip}:{port}"
                         
-                        # --- 【优化：按照要求命名】 ---
-                        # 生成 01, 02 这种格式的编号
+                        # --- 【优化：地区+编号+空格+后缀】 ---
                         idx_str = str(index + 1).zfill(2)
-                        # 最终命名：地区名 + 编号 + 后缀
                         node_name = f"{name}{idx_str}{SUFFIX}"
-                        # ----------------------------
+                        # -----------------------------------
 
                         vless = f"vless://{UUID}@{ip}:{port}?encryption=none&security=tls&sni={HOST}&type=ws&host={HOST}&path={dynamic_path}#{node_name}"
                         region_nodes.append(vless)
@@ -75,11 +73,11 @@ def main():
             all_nodes.extend(future.result())
 
     if all_nodes:
-        # 保存 nodes.txt (明文)
+        # 保存明文
         with open("nodes.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(all_nodes))
         
-        # 保存 sub.txt (Base64)
+        # 保存订阅版
         with open("sub.txt", "w", encoding="utf-8") as f:
             b64_content = base64.b64encode("\n".join(all_nodes).encode("utf-8")).decode("utf-8")
             f.write(b64_content)
