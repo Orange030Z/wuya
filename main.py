@@ -43,7 +43,6 @@ def process_region(code, name):
                         node_name = f"{name}{idx_str}{SUFFIX}"
                         path = f"/{ip}:{port}"
                         
-                        # 存储节点结构化数据
                         nodes_data.append({
                             "name": node_name,
                             "ip": ip,
@@ -77,16 +76,20 @@ def main():
             all_nodes_info.extend(future.result())
 
     if all_nodes_info:
-        # 1. 生成 v2rayNG 格式 (nodes.txt 和 sub.txt)
+        # 排序：让名字按字母/地区顺序排列，整齐一些
+        all_nodes_info.sort(key=lambda x: x['name'])
+        
         raw_urls = [n['raw_url'] for n in all_nodes_info]
         with open("nodes.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(raw_urls))
         with open("sub.txt", "w", encoding="utf-8") as f:
             f.write(base64.b64encode("\n".join(raw_urls).encode("utf-8")).decode("utf-8"))
 
-        # 2. 生成 Clash 专用格式 (clash.yaml)
+        # 生成 Clash 专用格式
         proxies = []
+        node_names = []
         for n in all_nodes_info:
+            node_names.append(n['name'])
             proxies.append({
                 "name": n['name'],
                 "type": "vless",
@@ -111,10 +114,23 @@ def main():
             "log-level": "info",
             "proxies": proxies,
             "proxy-groups": [
-                {"name": "🚀 节点选择", "type": "select", "proxies": ["⚡ 自动选择"] + [p['name'] for p in proxies]},
-                {"name": "⚡ 自动选择", "type": "url-test", "proxies": [p['name'] for p in proxies], "url": "http://www.gstatic.com/generate_204", "interval": 300}
+                # --- 【自动选择调整到了第一位】 ---
+                {
+                    "name": "⚡ 自动选择", 
+                    "type": "url-test", 
+                    "proxies": node_names, 
+                    "url": "http://www.gstatic.com/generate_204", 
+                    "interval": 300
+                },
+                {
+                    "name": "🚀 节点选择", 
+                    "type": "select", 
+                    "proxies": ["⚡ 自动选择"] + node_names
+                }
             ],
-            "rules": ["MATCH,🚀 节点选择"]
+            "rules": [
+                "MATCH,🚀 节点选择"
+            ]
         }
         
         with open("clash.yaml", "w", encoding="utf-8") as f:
