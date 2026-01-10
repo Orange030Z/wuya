@@ -803,6 +803,20 @@ proxies:
       Host: x.kkii.eu.org
 - name: 台湾01 @schpd_chat
   type: vless
+  server: 202.148.221.231
+  port: 443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /202.148.221.231:443
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾02 @schpd_chat
+  type: vless
   server: 45.196.239.197
   port: 443
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
@@ -815,7 +829,7 @@ proxies:
     path: /45.196.239.197:443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾02 @schpd_chat
+- name: 台湾03 @schpd_chat
   type: vless
   server: 45.196.238.44
   port: 443
@@ -829,7 +843,7 @@ proxies:
     path: /45.196.238.44:443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾03 @schpd_chat
+- name: 台湾04 @schpd_chat
   type: vless
   server: 45.196.239.211
   port: 443
@@ -843,7 +857,7 @@ proxies:
     path: /45.196.239.211:443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾04 @schpd_chat
+- name: 台湾05 @schpd_chat
   type: vless
   server: 45.196.239.92
   port: 443
@@ -857,7 +871,7 @@ proxies:
     path: /45.196.239.92:443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾05 @schpd_chat
+- name: 台湾06 @schpd_chat
   type: vless
   server: 45.196.238.248
   port: 443
@@ -871,7 +885,21 @@ proxies:
     path: /45.196.238.248:443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾06 @schpd_chat
+- name: 台湾07 @schpd_chat
+  type: vless
+  server: 202.153.4.51
+  port: 1443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /202.153.4.51:1443
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾08 @schpd_chat
   type: vless
   server: 203.69.248.40
   port: 10443
@@ -885,7 +913,7 @@ proxies:
     path: /203.69.248.40:10443
     headers:
       Host: x.kkii.eu.org
-- name: 台湾07 @schpd_chat
+- name: 台湾09 @schpd_chat
   type: vless
   server: 203.69.248.40
   port: 16000
@@ -899,35 +927,77 @@ proxies:
     path: /203.69.248.40:16000
     headers:
       Host: x.kkii.eu.org
-- name: 台湾08 @schpd_chat
-  type: vless
-  server: 114.32.9.249
-  port: 16443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /114.32.9.249:16443
-    headers:
-      Host: x.kkii.eu.org
-- name: 台湾09 @schpd_chat
-  type: vless
-  server: 103.137.63.227
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.137.63.227:8443
-    headers:
-      Host: x.kkii.eu.org
 - name: 台湾10 @schpd_chat
+  type: vless
+  server: 220.128.110.108
+  port: 43
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /220.128.110.108:43
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾11 @schpd_chat
+  type: vless
+  server: 122.116.43.253
+  port: 995
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /122.116.43.253:995
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾12 @schpd_chat
+  type: vless
+  server: 114.34.106.124
+  port: 10443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /114.34.106.124:10443
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾13 @schpd_chat
+  type: vless
+  server: 60.248.139.106
+  port: 11017
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /60.248.139.106:11017
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾14 @schpd_chat
+  type: vless
+  server: 60.248.139.106
+  port: 10016
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /60.248.139.106:10016
+    headers:
+      Host: x.kkii.eu.org
+- name: 台湾15 @schpd_chat
   type: vless
   server: 45.196.239.151
   port: 443
@@ -939,62 +1009,6 @@ proxies:
   network: ws
   ws-opts:
     path: /45.196.239.151:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 台湾11 @schpd_chat
-  type: vless
-  server: 220.135.92.105
-  port: 2087
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /220.135.92.105:2087
-    headers:
-      Host: x.kkii.eu.org
-- name: 台湾12 @schpd_chat
-  type: vless
-  server: 203.69.248.40
-  port: 14147
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /203.69.248.40:14147
-    headers:
-      Host: x.kkii.eu.org
-- name: 台湾14 @schpd_chat
-  type: vless
-  server: 223.165.4.57
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /223.165.4.57:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 台湾15 @schpd_chat
-  type: vless
-  server: 210.61.97.241
-  port: 81
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /210.61.97.241:81
     headers:
       Host: x.kkii.eu.org
 - name: 土耳其01 @schpd_chat
@@ -1207,6 +1221,20 @@ proxies:
     path: /103.228.170.23:2053
     headers:
       Host: x.kkii.eu.org
+- name: 德国04 @schpd_chat
+  type: vless
+  server: 45.129.78.143
+  port: 8443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.129.78.143:8443
+    headers:
+      Host: x.kkii.eu.org
 - name: 德国05 @schpd_chat
   type: vless
   server: 62.60.246.1
@@ -1223,6 +1251,20 @@ proxies:
       Host: x.kkii.eu.org
 - name: 德国06 @schpd_chat
   type: vless
+  server: 45.129.78.69
+  port: 8443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.129.78.69:8443
+    headers:
+      Host: x.kkii.eu.org
+- name: 德国08 @schpd_chat
+  type: vless
   server: 80.240.30.21
   port: 9443
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
@@ -1235,7 +1277,7 @@ proxies:
     path: /80.240.30.21:9443
     headers:
       Host: x.kkii.eu.org
-- name: 德国07 @schpd_chat
+- name: 德国09 @schpd_chat
   type: vless
   server: 62.60.247.69
   port: 2053
@@ -1249,7 +1291,7 @@ proxies:
     path: /62.60.247.69:2053
     headers:
       Host: x.kkii.eu.org
-- name: 德国08 @schpd_chat
+- name: 德国10 @schpd_chat
   type: vless
   server: 178.17.50.62
   port: 443
@@ -1263,7 +1305,7 @@ proxies:
     path: /178.17.50.62:443
     headers:
       Host: x.kkii.eu.org
-- name: 德国09 @schpd_chat
+- name: 德国11 @schpd_chat
   type: vless
   server: 103.56.84.189
   port: 443
@@ -1277,7 +1319,7 @@ proxies:
     path: /103.56.84.189:443
     headers:
       Host: x.kkii.eu.org
-- name: 德国10 @schpd_chat
+- name: 德国12 @schpd_chat
   type: vless
   server: 193.23.211.192
   port: 8443
@@ -1291,7 +1333,7 @@ proxies:
     path: /193.23.211.192:8443
     headers:
       Host: x.kkii.eu.org
-- name: 德国12 @schpd_chat
+- name: 德国14 @schpd_chat
   type: vless
   server: 45.154.98.100
   port: 5004
@@ -1305,7 +1347,7 @@ proxies:
     path: /45.154.98.100:5004
     headers:
       Host: x.kkii.eu.org
-- name: 德国13 @schpd_chat
+- name: 德国15 @schpd_chat
   type: vless
   server: 2.58.65.229
   port: 443
@@ -1317,20 +1359,6 @@ proxies:
   network: ws
   ws-opts:
     path: /2.58.65.229:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国15 @schpd_chat
-  type: vless
-  server: 62.60.239.176
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.239.176:2053
     headers:
       Host: x.kkii.eu.org
 - name: 捷克01 @schpd_chat
@@ -1989,6 +2017,20 @@ proxies:
   network: ws
   ws-opts:
     path: /57.128.198.82:2053
+    headers:
+      Host: x.kkii.eu.org
+- name: 波兰06 @schpd_chat
+  type: vless
+  server: 31.133.0.49
+  port: 2053
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /31.133.0.49:2053
     headers:
       Host: x.kkii.eu.org
 - name: 波兰07 @schpd_chat
@@ -3029,6 +3071,20 @@ proxies:
       Host: x.kkii.eu.org
 - name: 芬兰06 @schpd_chat
   type: vless
+  server: 45.158.169.215
+  port: 2083
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.158.169.215:2083
+    headers:
+      Host: x.kkii.eu.org
+- name: 芬兰07 @schpd_chat
+  type: vless
   server: 83.219.97.151
   port: 443
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
@@ -3041,7 +3097,7 @@ proxies:
     path: /83.219.97.151:443
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰07 @schpd_chat
+- name: 芬兰08 @schpd_chat
   type: vless
   server: 45.158.169.159
   port: 8443
@@ -3055,7 +3111,7 @@ proxies:
     path: /45.158.169.159:8443
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰08 @schpd_chat
+- name: 芬兰09 @schpd_chat
   type: vless
   server: 95.182.115.192
   port: 2053
@@ -3069,7 +3125,7 @@ proxies:
     path: /95.182.115.192:2053
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰09 @schpd_chat
+- name: 芬兰10 @schpd_chat
   type: vless
   server: 45.156.22.150
   port: 587
@@ -3083,7 +3139,7 @@ proxies:
     path: /45.156.22.150:587
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰10 @schpd_chat
+- name: 芬兰11 @schpd_chat
   type: vless
   server: 109.206.236.109
   port: 445
@@ -3097,7 +3153,7 @@ proxies:
     path: /109.206.236.109:445
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰11 @schpd_chat
+- name: 芬兰12 @schpd_chat
   type: vless
   server: 185.92.183.41
   port: 8443
@@ -3111,7 +3167,7 @@ proxies:
     path: /185.92.183.41:8443
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰12 @schpd_chat
+- name: 芬兰13 @schpd_chat
   type: vless
   server: 213.232.204.203
   port: 2053
@@ -3125,7 +3181,7 @@ proxies:
     path: /213.232.204.203:2053
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰13 @schpd_chat
+- name: 芬兰14 @schpd_chat
   type: vless
   server: 213.232.204.207
   port: 2053
@@ -3139,7 +3195,7 @@ proxies:
     path: /213.232.204.207:2053
     headers:
       Host: x.kkii.eu.org
-- name: 芬兰14 @schpd_chat
+- name: 芬兰15 @schpd_chat
   type: vless
   server: 203.18.98.246
   port: 2053
@@ -3151,20 +3207,6 @@ proxies:
   network: ws
   ws-opts:
     path: /203.18.98.246:2053
-    headers:
-      Host: x.kkii.eu.org
-- name: 芬兰15 @schpd_chat
-  type: vless
-  server: 45.158.169.159
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /45.158.169.159:2053
     headers:
       Host: x.kkii.eu.org
 - name: 英国01 @schpd_chat
@@ -3519,6 +3561,20 @@ proxies:
       Host: x.kkii.eu.org
 - name: 荷兰12 @schpd_chat
   type: vless
+  server: 45.81.35.107
+  port: 443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.81.35.107:443
+    headers:
+      Host: x.kkii.eu.org
+- name: 荷兰13 @schpd_chat
+  type: vless
   server: 95.164.2.113
   port: 8443
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
@@ -3531,7 +3587,7 @@ proxies:
     path: /95.164.2.113:8443
     headers:
       Host: x.kkii.eu.org
-- name: 荷兰13 @schpd_chat
+- name: 荷兰14 @schpd_chat
   type: vless
   server: 192.145.31.71
   port: 8443
@@ -3545,7 +3601,7 @@ proxies:
     path: /192.145.31.71:8443
     headers:
       Host: x.kkii.eu.org
-- name: 荷兰14 @schpd_chat
+- name: 荷兰15 @schpd_chat
   type: vless
   server: 202.71.13.242
   port: 8443
@@ -3701,6 +3757,34 @@ proxies:
       Host: x.kkii.eu.org
 - name: 韩国02 @schpd_chat
   type: vless
+  server: 152.70.253.84
+  port: 8443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /152.70.253.84:8443
+    headers:
+      Host: x.kkii.eu.org
+- name: 韩国03 @schpd_chat
+  type: vless
+  server: 193.122.100.41
+  port: 8443
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /193.122.100.41:8443
+    headers:
+      Host: x.kkii.eu.org
+- name: 韩国04 @schpd_chat
+  type: vless
   server: 119.65.139.101
   port: 60001
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
@@ -3713,7 +3797,7 @@ proxies:
     path: /119.65.139.101:60001
     headers:
       Host: x.kkii.eu.org
-- name: 韩国03 @schpd_chat
+- name: 韩国05 @schpd_chat
   type: vless
   server: 123.111.169.70
   port: 2083
@@ -3727,7 +3811,7 @@ proxies:
     path: /123.111.169.70:2083
     headers:
       Host: x.kkii.eu.org
-- name: 韩国04 @schpd_chat
+- name: 韩国06 @schpd_chat
   type: vless
   server: 175.123.162.188
   port: 16000
@@ -3741,7 +3825,7 @@ proxies:
     path: /175.123.162.188:16000
     headers:
       Host: x.kkii.eu.org
-- name: 韩国05 @schpd_chat
+- name: 韩国07 @schpd_chat
   type: vless
   server: 175.123.172.254
   port: 30005
@@ -3755,7 +3839,7 @@ proxies:
     path: /175.123.172.254:30005
     headers:
       Host: x.kkii.eu.org
-- name: 韩国06 @schpd_chat
+- name: 韩国08 @schpd_chat
   type: vless
   server: 112.184.190.52
   port: 29090
@@ -3769,7 +3853,21 @@ proxies:
     path: /112.184.190.52:29090
     headers:
       Host: x.kkii.eu.org
-- name: 韩国07 @schpd_chat
+- name: 韩国09 @schpd_chat
+  type: vless
+  server: 175.123.171.174
+  port: 30001
+  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  cipher: auto
+  tls: true
+  udp: true
+  servername: x.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /175.123.171.174:30001
+    headers:
+      Host: x.kkii.eu.org
+- name: 韩国10 @schpd_chat
   type: vless
   server: 59.3.3.161
   port: 8443
@@ -3783,7 +3881,7 @@ proxies:
     path: /59.3.3.161:8443
     headers:
       Host: x.kkii.eu.org
-- name: 韩国08 @schpd_chat
+- name: 韩国11 @schpd_chat
   type: vless
   server: 175.123.171.174
   port: 30005
@@ -3797,7 +3895,7 @@ proxies:
     path: /175.123.171.174:30005
     headers:
       Host: x.kkii.eu.org
-- name: 韩国09 @schpd_chat
+- name: 韩国12 @schpd_chat
   type: vless
   server: 14.53.186.206
   port: 18080
@@ -3811,7 +3909,7 @@ proxies:
     path: /14.53.186.206:18080
     headers:
       Host: x.kkii.eu.org
-- name: 韩国10 @schpd_chat
+- name: 韩国13 @schpd_chat
   type: vless
   server: 129.154.50.159
   port: 5443
@@ -3825,21 +3923,7 @@ proxies:
     path: /129.154.50.159:5443
     headers:
       Host: x.kkii.eu.org
-- name: 韩国12 @schpd_chat
-  type: vless
-  server: 152.70.253.84
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /152.70.253.84:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 韩国13 @schpd_chat
+- name: 韩国15 @schpd_chat
   type: vless
   server: 129.154.222.63
   port: 8443
@@ -3853,10 +3937,10 @@ proxies:
     path: /129.154.222.63:8443
     headers:
       Host: x.kkii.eu.org
-- name: 韩国14 @schpd_chat
+- name: 香港01 @schpd_chat
   type: vless
-  server: 123.111.169.70
-  port: 2087
+  server: 149.104.28.170
+  port: 443
   uuid: 3afad5df-e056-4301-846d-665b4ef51968
   cipher: auto
   tls: true
@@ -3864,21 +3948,7 @@ proxies:
   servername: x.kkii.eu.org
   network: ws
   ws-opts:
-    path: /123.111.169.70:2087
-    headers:
-      Host: x.kkii.eu.org
-- name: 韩国15 @schpd_chat
-  type: vless
-  server: 152.70.93.86
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /152.70.93.86:8443
+    path: /149.104.28.170:443
     headers:
       Host: x.kkii.eu.org
 - name: 香港02 @schpd_chat
@@ -4021,20 +4091,6 @@ proxies:
     path: /45.196.220.114:8443
     headers:
       Host: x.kkii.eu.org
-- name: 香港13 @schpd_chat
-  type: vless
-  server: 83.229.123.16
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /83.229.123.16:443
-    headers:
-      Host: x.kkii.eu.org
 - name: 香港14 @schpd_chat
   type: vless
   server: 149.104.31.55
@@ -4164,6 +4220,7 @@ proxy-groups:
   - 台湾10 @schpd_chat
   - 台湾11 @schpd_chat
   - 台湾12 @schpd_chat
+  - 台湾13 @schpd_chat
   - 台湾14 @schpd_chat
   - 台湾15 @schpd_chat
   - 土耳其01 @schpd_chat
@@ -4181,14 +4238,15 @@ proxy-groups:
   - 巴西03 @schpd_chat
   - 德国01 @schpd_chat
   - 德国02 @schpd_chat
+  - 德国04 @schpd_chat
   - 德国05 @schpd_chat
   - 德国06 @schpd_chat
-  - 德国07 @schpd_chat
   - 德国08 @schpd_chat
   - 德国09 @schpd_chat
   - 德国10 @schpd_chat
+  - 德国11 @schpd_chat
   - 德国12 @schpd_chat
-  - 德国13 @schpd_chat
+  - 德国14 @schpd_chat
   - 德国15 @schpd_chat
   - 捷克01 @schpd_chat
   - 捷克03 @schpd_chat
@@ -4237,6 +4295,7 @@ proxy-groups:
   - 波兰03 @schpd_chat
   - 波兰04 @schpd_chat
   - 波兰05 @schpd_chat
+  - 波兰06 @schpd_chat
   - 波兰07 @schpd_chat
   - 波兰08 @schpd_chat
   - 波兰09 @schpd_chat
@@ -4349,6 +4408,7 @@ proxy-groups:
   - 荷兰12 @schpd_chat
   - 荷兰13 @schpd_chat
   - 荷兰14 @schpd_chat
+  - 荷兰15 @schpd_chat
   - 菲律宾01 @schpd_chat
   - 菲律宾02 @schpd_chat
   - 菲律宾03 @schpd_chat
@@ -4368,10 +4428,11 @@ proxy-groups:
   - 韩国08 @schpd_chat
   - 韩国09 @schpd_chat
   - 韩国10 @schpd_chat
+  - 韩国11 @schpd_chat
   - 韩国12 @schpd_chat
   - 韩国13 @schpd_chat
-  - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
+  - 香港01 @schpd_chat
   - 香港02 @schpd_chat
   - 香港03 @schpd_chat
   - 香港04 @schpd_chat
@@ -4382,7 +4443,6 @@ proxy-groups:
   - 香港09 @schpd_chat
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
-  - 香港13 @schpd_chat
   - 香港14 @schpd_chat
   - 香港15 @schpd_chat
   - 马来西亚01 @schpd_chat
@@ -4462,6 +4522,7 @@ proxy-groups:
   - 台湾10 @schpd_chat
   - 台湾11 @schpd_chat
   - 台湾12 @schpd_chat
+  - 台湾13 @schpd_chat
   - 台湾14 @schpd_chat
   - 台湾15 @schpd_chat
   - 土耳其01 @schpd_chat
@@ -4479,14 +4540,15 @@ proxy-groups:
   - 巴西03 @schpd_chat
   - 德国01 @schpd_chat
   - 德国02 @schpd_chat
+  - 德国04 @schpd_chat
   - 德国05 @schpd_chat
   - 德国06 @schpd_chat
-  - 德国07 @schpd_chat
   - 德国08 @schpd_chat
   - 德国09 @schpd_chat
   - 德国10 @schpd_chat
+  - 德国11 @schpd_chat
   - 德国12 @schpd_chat
-  - 德国13 @schpd_chat
+  - 德国14 @schpd_chat
   - 德国15 @schpd_chat
   - 捷克01 @schpd_chat
   - 捷克03 @schpd_chat
@@ -4535,6 +4597,7 @@ proxy-groups:
   - 波兰03 @schpd_chat
   - 波兰04 @schpd_chat
   - 波兰05 @schpd_chat
+  - 波兰06 @schpd_chat
   - 波兰07 @schpd_chat
   - 波兰08 @schpd_chat
   - 波兰09 @schpd_chat
@@ -4647,6 +4710,7 @@ proxy-groups:
   - 荷兰12 @schpd_chat
   - 荷兰13 @schpd_chat
   - 荷兰14 @schpd_chat
+  - 荷兰15 @schpd_chat
   - 菲律宾01 @schpd_chat
   - 菲律宾02 @schpd_chat
   - 菲律宾03 @schpd_chat
@@ -4666,10 +4730,11 @@ proxy-groups:
   - 韩国08 @schpd_chat
   - 韩国09 @schpd_chat
   - 韩国10 @schpd_chat
+  - 韩国11 @schpd_chat
   - 韩国12 @schpd_chat
   - 韩国13 @schpd_chat
-  - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
+  - 香港01 @schpd_chat
   - 香港02 @schpd_chat
   - 香港03 @schpd_chat
   - 香港04 @schpd_chat
@@ -4680,7 +4745,6 @@ proxy-groups:
   - 香港09 @schpd_chat
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
-  - 香港13 @schpd_chat
   - 香港14 @schpd_chat
   - 香港15 @schpd_chat
   - 马来西亚01 @schpd_chat
