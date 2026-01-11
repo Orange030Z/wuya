@@ -7,4510 +7,4468 @@ proxies:
   type: vless
   server: 195.28.182.182
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /195.28.182.182:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 乌克兰02 @schpd_chat
   type: vless
   server: 82.118.22.141
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /82.118.22.141:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列01 @schpd_chat
   type: vless
   server: 192.71.27.237
   port: 20205
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /192.71.27.237:20205
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列02 @schpd_chat
   type: vless
   server: 45.150.108.59
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.150.108.59:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列03 @schpd_chat
   type: vless
   server: 94.131.114.50
   port: 81
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /94.131.114.50:81
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列04 @schpd_chat
   type: vless
   server: 64.176.163.9
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /64.176.163.9:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列05 @schpd_chat
   type: vless
   server: 185.162.127.54
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.162.127.54:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列06 @schpd_chat
   type: vless
   server: 129.159.143.171
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.159.143.171:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列07 @schpd_chat
   type: vless
   server: 129.159.129.107
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.159.129.107:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列08 @schpd_chat
   type: vless
   server: 129.159.129.107
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.159.129.107:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列09 @schpd_chat
   type: vless
   server: 212.80.205.244
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /212.80.205.244:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列10 @schpd_chat
   type: vless
   server: 185.241.7.22
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.241.7.22:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列11 @schpd_chat
   type: vless
   server: 185.239.48.207
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.239.48.207:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列12 @schpd_chat
   type: vless
   server: 192.71.27.237
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /192.71.27.237:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列13 @schpd_chat
   type: vless
   server: 77.91.69.141
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.91.69.141:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列14 @schpd_chat
   type: vless
   server: 185.162.126.185
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.162.126.185:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 以色列15 @schpd_chat
   type: vless
   server: 77.91.69.51
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.91.69.51:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克01 @schpd_chat
   type: vless
   server: 178.17.53.9
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.53.9:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克02 @schpd_chat
   type: vless
   server: 178.17.50.148
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.50.148:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克03 @schpd_chat
   type: vless
   server: 178.17.48.166
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.48.166:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克04 @schpd_chat
   type: vless
   server: 178.17.50.62
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.50.62:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克05 @schpd_chat
   type: vless
   server: 178.17.48.178
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.48.178:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克07 @schpd_chat
   type: vless
   server: 178.17.51.143
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.51.143:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克08 @schpd_chat
   type: vless
   server: 178.17.48.5
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.48.5:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克09 @schpd_chat
   type: vless
   server: 178.17.51.206
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.51.206:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克10 @schpd_chat
   type: vless
   server: 178.17.57.75
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.57.75:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克11 @schpd_chat
   type: vless
   server: 178.17.57.75
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.57.75:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克12 @schpd_chat
   type: vless
   server: 178.17.49.75
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.49.75:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克13 @schpd_chat
   type: vless
   server: 178.17.50.250
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.50.250:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克14 @schpd_chat
   type: vless
   server: 178.17.48.151
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.48.151:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 伊拉克15 @schpd_chat
   type: vless
   server: 178.17.49.190
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.17.49.190:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯01 @schpd_chat
   type: vless
   server: 83.147.252.186
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.252.186:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯02 @schpd_chat
   type: vless
   server: 213.165.60.83
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /213.165.60.83:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯03 @schpd_chat
   type: vless
   server: 94.242.53.158
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /94.242.53.158:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯04 @schpd_chat
   type: vless
   server: 84.252.100.110
   port: 5000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /84.252.100.110:5000
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯05 @schpd_chat
   type: vless
   server: 176.57.211.166
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /176.57.211.166:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯06 @schpd_chat
   type: vless
   server: 84.252.100.110
   port: 993
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /84.252.100.110:993
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯07 @schpd_chat
   type: vless
   server: 84.252.100.110
   port: 2052
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /84.252.100.110:2052
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯08 @schpd_chat
-  type: vless
-  server: 31.129.48.139
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /31.129.48.139:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 俄罗斯09 @schpd_chat
-  type: vless
-  server: 212.193.35.100
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /212.193.35.100:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 俄罗斯10 @schpd_chat
-  type: vless
-  server: 77.110.104.41
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /77.110.104.41:2053
-    headers:
-      Host: x.kkii.eu.org
-- name: 俄罗斯11 @schpd_chat
   type: vless
   server: 203.189.233.99
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /203.189.233.99:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
+- name: 俄罗斯09 @schpd_chat
+  type: vless
+  server: 31.129.48.139
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /31.129.48.139:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 俄罗斯10 @schpd_chat
+  type: vless
+  server: 212.193.35.100
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /212.193.35.100:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 俄罗斯11 @schpd_chat
+  type: vless
+  server: 77.110.104.41
+  port: 2053
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /77.110.104.41:2053
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯12 @schpd_chat
   type: vless
   server: 85.193.90.131
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /85.193.90.131:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯13 @schpd_chat
   type: vless
   server: 31.130.149.85
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.130.149.85:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯14 @schpd_chat
   type: vless
   server: 84.252.74.134
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /84.252.74.134:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯15 @schpd_chat
   type: vless
   server: 77.110.104.14
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.104.14:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 加拿大01 @schpd_chat
   type: vless
   server: 40.233.116.225
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /40.233.116.225:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 加拿大02 @schpd_chat
   type: vless
   server: 35.183.216.163
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /35.183.216.163:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 加拿大03 @schpd_chat
   type: vless
   server: 68.233.122.42
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /68.233.122.42:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 加拿大05 @schpd_chat
   type: vless
   server: 148.113.200.194
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /148.113.200.194:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 加拿大06 @schpd_chat
   type: vless
   server: 148.113.200.194
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /148.113.200.194:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼01 @schpd_chat
   type: vless
   server: 43.218.77.16
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /43.218.77.16:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼02 @schpd_chat
   type: vless
   server: 103.6.207.108
   port: 19224
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.6.207.108:19224
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼03 @schpd_chat
   type: vless
   server: 43.218.77.16
   port: 1443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /43.218.77.16:1443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼04 @schpd_chat
   type: vless
   server: 103.6.207.108
   port: 8080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.6.207.108:8080
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼05 @schpd_chat
   type: vless
   server: 103.178.153.100
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.178.153.100:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印尼06 @schpd_chat
   type: vless
   server: 38.47.180.44
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /38.47.180.44:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度01 @schpd_chat
   type: vless
   server: 148.113.43.228
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /148.113.43.228:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度02 @schpd_chat
   type: vless
   server: 64.227.174.213
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /64.227.174.213:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度03 @schpd_chat
   type: vless
   server: 129.159.18.129
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.159.18.129:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度04 @schpd_chat
   type: vless
   server: 144.24.139.137
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /144.24.139.137:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度05 @schpd_chat
   type: vless
   server: 103.181.177.88
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.181.177.88:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度06 @schpd_chat
   type: vless
   server: 139.84.168.252
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /139.84.168.252:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度07 @schpd_chat
   type: vless
   server: 139.84.168.252
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /139.84.168.252:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度08 @schpd_chat
   type: vless
   server: 141.148.219.5
   port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /141.148.219.5:444
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度09 @schpd_chat
   type: vless
   server: 80.225.202.29
   port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /80.225.202.29:444
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度10 @schpd_chat
   type: vless
   server: 144.24.105.6
   port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /144.24.105.6:444
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度11 @schpd_chat
   type: vless
   server: 129.154.251.30
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.154.251.30:8443
     headers:
-      Host: x.kkii.eu.org
-- name: 印度12 @schpd_chat
-  type: vless
-  server: 14.99.154.250
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /14.99.154.250:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度13 @schpd_chat
   type: vless
   server: 129.151.46.160
   port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.151.46.160:444
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度14 @schpd_chat
   type: vless
   server: 103.205.143.82
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.205.143.82:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 印度15 @schpd_chat
   type: vless
   server: 64.227.174.213
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /64.227.174.213:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾01 @schpd_chat
   type: vless
   server: 45.196.238.49
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.238.49:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾02 @schpd_chat
   type: vless
   server: 45.196.238.145
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.238.145:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾03 @schpd_chat
   type: vless
   server: 45.196.238.44
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.238.44:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾04 @schpd_chat
   type: vless
   server: 45.196.239.87
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.87:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾05 @schpd_chat
   type: vless
   server: 45.196.239.197
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.197:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾06 @schpd_chat
   type: vless
   server: 45.196.239.211
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.211:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾07 @schpd_chat
   type: vless
   server: 45.196.239.92
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.92:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾08 @schpd_chat
   type: vless
   server: 203.69.248.40
   port: 10443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /203.69.248.40:10443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾09 @schpd_chat
   type: vless
   server: 203.69.248.40
   port: 16000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /203.69.248.40:16000
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾10 @schpd_chat
   type: vless
   server: 45.196.239.238
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.238:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾12 @schpd_chat
   type: vless
   server: 45.196.239.151
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.239.151:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾13 @schpd_chat
   type: vless
   server: 203.69.248.40
   port: 14147
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /203.69.248.40:14147
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 台湾15 @schpd_chat
   type: vless
   server: 45.196.238.248
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.238.248:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 土耳其01 @schpd_chat
   type: vless
   server: 156.67.62.56
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.67.62.56:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 土耳其02 @schpd_chat
   type: vless
   server: 94.131.123.172
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /94.131.123.172:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 土耳其03 @schpd_chat
   type: vless
   server: 103.231.75.99
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.231.75.99:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 土耳其04 @schpd_chat
-  type: vless
-  server: 103.231.75.115
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.231.75.115:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其05 @schpd_chat
-  type: vless
-  server: 185.212.113.14
-  port: 2051
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /185.212.113.14:2051
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其06 @schpd_chat
-  type: vless
-  server: 103.83.86.175
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.83.86.175:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其07 @schpd_chat
-  type: vless
-  server: 103.83.87.178
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.83.87.178:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其08 @schpd_chat
-  type: vless
-  server: 62.60.233.201
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.233.201:2053
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其09 @schpd_chat
-  type: vless
-  server: 185.212.113.2
-  port: 2051
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /185.212.113.2:2051
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其10 @schpd_chat
-  type: vless
-  server: 5.180.45.36
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /5.180.45.36:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其11 @schpd_chat
-  type: vless
-  server: 103.83.86.147
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.83.86.147:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 土耳其12 @schpd_chat
   type: vless
   server: 5.180.45.30
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /5.180.45.30:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
+- name: 土耳其05 @schpd_chat
+  type: vless
+  server: 103.231.75.115
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.231.75.115:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其06 @schpd_chat
+  type: vless
+  server: 185.212.113.14
+  port: 2051
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /185.212.113.14:2051
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其07 @schpd_chat
+  type: vless
+  server: 103.83.86.175
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.83.86.175:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其08 @schpd_chat
+  type: vless
+  server: 103.83.87.178
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.83.87.178:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其09 @schpd_chat
+  type: vless
+  server: 62.60.233.201
+  port: 2053
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /62.60.233.201:2053
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其10 @schpd_chat
+  type: vless
+  server: 185.212.113.2
+  port: 2051
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /185.212.113.2:2051
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其11 @schpd_chat
+  type: vless
+  server: 5.180.45.36
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /5.180.45.36:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 土耳其12 @schpd_chat
+  type: vless
+  server: 103.83.86.147
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.83.86.147:8443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 孟加拉01 @schpd_chat
   type: vless
   server: 38.54.42.124
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /38.54.42.124:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 尼日利亚01 @schpd_chat
   type: vless
   server: 176.97.192.97
   port: 7443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /176.97.192.97:7443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 巴西01 @schpd_chat
   type: vless
   server: 132.226.163.224
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /132.226.163.224:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 巴西02 @schpd_chat
   type: vless
   server: 132.226.163.224
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /132.226.163.224:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 巴西03 @schpd_chat
   type: vless
   server: 146.235.59.153
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /146.235.59.153:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 德国01 @schpd_chat
   type: vless
   server: 213.165.56.186
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /213.165.56.186:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 德国02 @schpd_chat
   type: vless
-  server: 62.60.216.116
+  server: 89.169.54.114
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /62.60.216.116:443
+    path: /89.169.54.114:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 德国03 @schpd_chat
+  type: vless
+  server: 89.23.106.39
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /89.23.106.39:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国04 @schpd_chat
+  type: vless
+  server: 178.20.209.70
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /178.20.209.70:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国05 @schpd_chat
+  type: vless
+  server: 62.60.217.63
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /62.60.217.63:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国06 @schpd_chat
   type: vless
   server: 213.165.55.94
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /213.165.55.94:443
     headers:
-      Host: x.kkii.eu.org
-- name: 德国04 @schpd_chat
-  type: vless
-  server: 178.20.209.75
-  port: 8082
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /178.20.209.75:8082
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国05 @schpd_chat
-  type: vless
-  server: 103.228.170.23
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.228.170.23:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国06 @schpd_chat
-  type: vless
-  server: 169.40.154.62
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /169.40.154.62:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 德国07 @schpd_chat
+  type: vless
+  server: 185.125.102.230
+  port: 8082
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /185.125.102.230:8082
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国08 @schpd_chat
+  type: vless
+  server: 109.120.177.101
+  port: 8082
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /109.120.177.101:8082
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国09 @schpd_chat
+  type: vless
+  server: 143.14.158.5
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /143.14.158.5:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国10 @schpd_chat
+  type: vless
+  server: 103.13.211.113
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.13.211.113:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国11 @schpd_chat
+  type: vless
+  server: 94.159.109.190
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /94.159.109.190:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国12 @schpd_chat
   type: vless
   server: 103.7.55.188
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.7.55.188:443
     headers:
-      Host: x.kkii.eu.org
-- name: 德国08 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 德国13 @schpd_chat
   type: vless
-  server: 77.110.100.253
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 92.246.136.62
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /92.246.136.62:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 德国14 @schpd_chat
+  type: vless
+  server: 77.110.100.253
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.100.253:8443
     headers:
-      Host: x.kkii.eu.org
-- name: 德国09 @schpd_chat
-  type: vless
-  server: 103.228.170.23
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.228.170.23:2053
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国10 @schpd_chat
-  type: vless
-  server: 178.20.209.87
-  port: 8082
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /178.20.209.87:8082
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国11 @schpd_chat
-  type: vless
-  server: 62.60.217.37
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.217.37:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国12 @schpd_chat
-  type: vless
-  server: 45.129.78.69
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /45.129.78.69:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 德国13 @schpd_chat
-  type: vless
-  server: 150.241.76.155
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /150.241.76.155:8443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 德国15 @schpd_chat
   type: vless
-  server: 213.165.55.130
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 178.20.209.75
+  port: 8082
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /213.165.55.130:443
+    path: /178.20.209.75:8082
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 捷克01 @schpd_chat
   type: vless
   server: 45.151.183.115
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.151.183.115:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 捷克03 @schpd_chat
   type: vless
   server: 45.151.183.22
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.151.183.22:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡01 @schpd_chat
   type: vless
   server: 146.190.83.99
   port: 8080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /146.190.83.99:8080
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡04 @schpd_chat
   type: vless
   server: 8.222.181.164
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /8.222.181.164:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡05 @schpd_chat
   type: vless
   server: 172.104.53.198
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /172.104.53.198:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡06 @schpd_chat
   type: vless
   server: 167.99.70.145
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /167.99.70.145:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡07 @schpd_chat
   type: vless
   server: 159.65.15.18
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /159.65.15.18:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡08 @schpd_chat
   type: vless
   server: 18.138.34.221
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /18.138.34.221:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡09 @schpd_chat
   type: vless
   server: 3.1.167.237
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /3.1.167.237:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡10 @schpd_chat
   type: vless
   server: 68.183.227.22
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /68.183.227.22:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡11 @schpd_chat
   type: vless
   server: 5.34.176.119
   port: 81
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /5.34.176.119:81
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡12 @schpd_chat
   type: vless
   server: 178.128.59.95
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /178.128.59.95:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡13 @schpd_chat
   type: vless
   server: 138.2.110.214
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /138.2.110.214:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡14 @schpd_chat
   type: vless
   server: 13.212.188.76
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /13.212.188.76:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 新加坡15 @schpd_chat
   type: vless
   server: 139.59.239.116
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /139.59.239.116:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 日本01 @schpd_chat
   type: vless
   server: 156.231.141.37
   port: 2095
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.231.141.37:2095
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 日本02 @schpd_chat
   type: vless
   server: 45.196.233.182
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.233.182:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 日本03 @schpd_chat
   type: vless
   server: 172.104.81.253
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /172.104.81.253:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 日本04 @schpd_chat
-  type: vless
-  server: 156.231.140.164
-  port: 2080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /156.231.140.164:2080
-    headers:
-      Host: x.kkii.eu.org
-- name: 日本05 @schpd_chat
   type: vless
   server: 139.162.108.5
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /139.162.108.5:443
     headers:
-      Host: x.kkii.eu.org
-- name: 日本06 @schpd_chat
-  type: vless
-  server: 156.231.141.9
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /156.231.141.9:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 日本07 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本05 @schpd_chat
   type: vless
   server: 156.231.141.9
   port: 4433
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.231.141.9:4433
     headers:
-      Host: x.kkii.eu.org
-- name: 日本08 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本06 @schpd_chat
   type: vless
   server: 156.231.141.37
   port: 2087
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.231.141.37:2087
     headers:
-      Host: x.kkii.eu.org
-- name: 日本09 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本07 @schpd_chat
   type: vless
   server: 45.77.178.100
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.77.178.100:443
     headers:
-      Host: x.kkii.eu.org
-- name: 日本11 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本09 @schpd_chat
   type: vless
   server: 54.248.75.19
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /54.248.75.19:443
     headers:
-      Host: x.kkii.eu.org
-- name: 日本13 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本11 @schpd_chat
   type: vless
   server: 156.231.141.37
   port: 2054
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.231.141.37:2054
     headers:
-      Host: x.kkii.eu.org
-- name: 日本14 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本12 @schpd_chat
   type: vless
   server: 156.231.141.37
   port: 2050
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /156.231.141.37:2050
     headers:
-      Host: x.kkii.eu.org
-- name: 日本15 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 日本13 @schpd_chat
   type: vless
-  server: 38.180.28.163
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 45.192.241.14
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /38.180.28.163:8443
+    path: /45.192.241.14:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
+- name: 日本15 @schpd_chat
+  type: vless
+  server: 172.105.199.111
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /172.105.199.111:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 法国01 @schpd_chat
   type: vless
   server: 95.182.97.146
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.97.146:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国02 @schpd_chat
   type: vless
   server: 95.182.98.140
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.98.140:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国03 @schpd_chat
   type: vless
   server: 95.182.97.169
   port: 2083
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.97.169:2083
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国04 @schpd_chat
   type: vless
   server: 188.130.207.192
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /188.130.207.192:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国05 @schpd_chat
   type: vless
   server: 95.182.97.125
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.97.125:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国07 @schpd_chat
   type: vless
   server: 95.182.98.235
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.98.235:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
+- name: 法国08 @schpd_chat
+  type: vless
+  server: 188.130.207.231
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /188.130.207.231:8443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 法国09 @schpd_chat
   type: vless
   server: 95.182.97.178
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.97.178:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国10 @schpd_chat
   type: vless
   server: 95.182.98.38
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.98.38:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国11 @schpd_chat
   type: vless
   server: 62.60.246.137
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.246.137:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国12 @schpd_chat
   type: vless
   server: 62.60.246.147
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.246.147:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国13 @schpd_chat
   type: vless
   server: 31.59.223.50
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.59.223.50:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国14 @schpd_chat
   type: vless
   server: 95.182.98.62
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.182.98.62:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 法国15 @schpd_chat
   type: vless
   server: 62.84.183.48
   port: 587
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.84.183.48:587
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰01 @schpd_chat
   type: vless
   server: 70.34.243.123
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /70.34.243.123:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰02 @schpd_chat
   type: vless
   server: 193.124.41.165
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /193.124.41.165:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰03 @schpd_chat
   type: vless
   server: 45.144.51.180
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.51.180:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰04 @schpd_chat
   type: vless
   server: 31.133.0.250
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.133.0.250:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰05 @schpd_chat
   type: vless
   server: 57.128.198.82
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /57.128.198.82:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰06 @schpd_chat
   type: vless
   server: 31.133.0.49
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.133.0.49:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰07 @schpd_chat
   type: vless
   server: 45.144.51.127
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.51.127:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰08 @schpd_chat
   type: vless
   server: 31.133.0.150
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.133.0.150:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰09 @schpd_chat
   type: vless
   server: 45.144.48.29
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.48.29:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰10 @schpd_chat
   type: vless
   server: 45.144.48.186
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.48.186:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰11 @schpd_chat
   type: vless
   server: 31.133.0.124
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /31.133.0.124:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰12 @schpd_chat
   type: vless
   server: 45.144.51.160
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.51.160:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰13 @schpd_chat
   type: vless
   server: 45.144.48.33
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.48.33:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰14 @schpd_chat
   type: vless
   server: 45.144.48.192
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.48.192:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 波兰15 @schpd_chat
   type: vless
   server: 2.59.163.100
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /2.59.163.100:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国01 @schpd_chat
   type: vless
   server: 45.154.26.81
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.154.26.81:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国02 @schpd_chat
   type: vless
   server: 45.136.253.18
   port: 33273
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.136.253.18:33273
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国03 @schpd_chat
   type: vless
   server: 199.21.175.187
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /199.21.175.187:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国04 @schpd_chat
   type: vless
   server: 110.164.146.161
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /110.164.146.161:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国05 @schpd_chat
   type: vless
   server: 171.103.14.207
   port: 10071
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /171.103.14.207:10071
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国06 @schpd_chat
   type: vless
   server: 45.91.134.226
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.91.134.226:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国07 @schpd_chat
   type: vless
   server: 103.99.11.193
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.99.11.193:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国08 @schpd_chat
   type: vless
   server: 103.99.11.193
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.99.11.193:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国09 @schpd_chat
   type: vless
   server: 45.91.133.83
   port: 20205
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.91.133.83:20205
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国10 @schpd_chat
   type: vless
   server: 45.154.26.81
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.154.26.81:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国11 @schpd_chat
   type: vless
   server: 171.103.164.62
   port: 30921
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /171.103.164.62:30921
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国12 @schpd_chat
   type: vless
   server: 45.144.167.223
   port: 27125
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.144.167.223:27125
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国13 @schpd_chat
   type: vless
   server: 103.22.183.118
   port: 20205
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.22.183.118:20205
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国14 @schpd_chat
   type: vless
   server: 212.80.213.140
   port: 31557
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /212.80.213.140:31557
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 泰国15 @schpd_chat
   type: vless
   server: 122.155.180.241
   port: 61389
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /122.155.180.241:61389
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 澳大利亚01 @schpd_chat
   type: vless
   server: 150.230.14.79
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /150.230.14.79:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典01 @schpd_chat
   type: vless
   server: 91.186.219.179
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.219.179:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典02 @schpd_chat
   type: vless
   server: 77.110.120.174
   port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.120.174:444
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典03 @schpd_chat
   type: vless
   server: 77.110.120.109
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.120.109:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典04 @schpd_chat
   type: vless
   server: 91.186.219.208
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.219.208:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典05 @schpd_chat
   type: vless
   server: 91.186.218.180
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.218.180:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典06 @schpd_chat
   type: vless
   server: 91.186.216.138
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.216.138:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典07 @schpd_chat
   type: vless
   server: 78.40.116.136
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /78.40.116.136:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典08 @schpd_chat
   type: vless
   server: 62.60.231.192
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.231.192:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典09 @schpd_chat
   type: vless
   server: 78.40.117.49
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /78.40.117.49:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典10 @schpd_chat
   type: vless
   server: 91.186.218.216
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.218.216:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典11 @schpd_chat
   type: vless
-  server: 41.216.182.225
+  server: 83.147.254.10
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /41.216.182.225:443
+    path: /83.147.254.10:443
     headers:
-      Host: x.kkii.eu.org
-- name: 瑞典12 @schpd_chat
-  type: vless
-  server: 84.22.149.83
-  port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /84.22.149.83:9443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典13 @schpd_chat
   type: vless
   server: 83.147.254.62
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.254.62:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞典14 @schpd_chat
   type: vless
-  server: 77.110.97.236
-  port: 444
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 84.22.148.100
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /84.22.148.100:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 瑞典15 @schpd_chat
+  type: vless
+  server: 77.110.97.236
+  port: 444
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.97.236:444
     headers:
-      Host: x.kkii.eu.org
-- name: 瑞典15 @schpd_chat
-  type: vless
-  server: 213.165.34.233
-  port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /213.165.34.233:2053
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士01 @schpd_chat
   type: vless
   server: 185.195.69.200
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.195.69.200:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士02 @schpd_chat
   type: vless
   server: 91.192.102.170
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.192.102.170:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士03 @schpd_chat
   type: vless
   server: 45.95.232.115
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.95.232.115:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士04 @schpd_chat
   type: vless
   server: 79.132.141.165
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /79.132.141.165:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士05 @schpd_chat
   type: vless
   server: 37.143.131.234
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /37.143.131.234:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士06 @schpd_chat
   type: vless
   server: 171.22.16.231
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /171.22.16.231:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士07 @schpd_chat
   type: vless
   server: 171.22.16.235
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /171.22.16.235:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士08 @schpd_chat
   type: vless
   server: 194.87.97.6
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /194.87.97.6:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士09 @schpd_chat
   type: vless
   server: 91.245.225.79
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.245.225.79:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士10 @schpd_chat
   type: vless
   server: 95.183.51.10
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.183.51.10:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士11 @schpd_chat
   type: vless
   server: 185.195.69.209
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.195.69.209:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士12 @schpd_chat
   type: vless
   server: 194.87.18.174
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /194.87.18.174:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士13 @schpd_chat
   type: vless
   server: 45.90.58.58
   port: 81
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.90.58.58:81
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 瑞士14 @schpd_chat
   type: vless
   server: 91.90.193.159
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.90.193.159:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 罗马尼亚01 @schpd_chat
   type: vless
   server: 185.39.30.67
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.39.30.67:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国01 @schpd_chat
   type: vless
   server: 154.21.95.100
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /154.21.95.100:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国02 @schpd_chat
   type: vless
   server: 155.94.173.121
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /155.94.173.121:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国03 @schpd_chat
   type: vless
   server: 107.161.24.195
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /107.161.24.195:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国04 @schpd_chat
   type: vless
   server: 64.112.40.217
   port: 12345
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /64.112.40.217:12345
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国05 @schpd_chat
   type: vless
   server: 103.175.99.37
   port: 7000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.175.99.37:7000
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国06 @schpd_chat
   type: vless
   server: 89.116.171.171
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /89.116.171.171:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国07 @schpd_chat
   type: vless
   server: 172.245.54.165
   port: 9527
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /172.245.54.165:9527
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国08 @schpd_chat
   type: vless
   server: 154.19.242.20
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /154.19.242.20:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国09 @schpd_chat
   type: vless
   server: 45.61.136.61
   port: 9443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.61.136.61:9443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国10 @schpd_chat
   type: vless
   server: 47.89.234.217
   port: 20000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /47.89.234.217:20000
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国11 @schpd_chat
   type: vless
   server: 193.233.87.9
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /193.233.87.9:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国12 @schpd_chat
   type: vless
   server: 185.92.181.12
   port: 7443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.92.181.12:7443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国13 @schpd_chat
   type: vless
   server: 185.92.180.35
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.92.180.35:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国14 @schpd_chat
   type: vless
   server: 185.92.180.207
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.92.180.207:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 美国15 @schpd_chat
   type: vless
   server: 94.183.185.7
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /94.183.185.7:443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰01 @schpd_chat
-  type: vless
-  server: 83.147.252.111
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /83.147.252.111:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰02 @schpd_chat
   type: vless
   server: 62.60.237.186
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.237.186:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰03 @schpd_chat
   type: vless
   server: 213.176.65.239
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /213.176.65.239:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰04 @schpd_chat
   type: vless
   server: 83.147.192.34
   port: 8080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.192.34:8080
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰05 @schpd_chat
   type: vless
   server: 62.60.236.62
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.236.62:443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰06 @schpd_chat
-  type: vless
-  server: 62.60.236.50
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.236.50:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰07 @schpd_chat
   type: vless
   server: 95.81.93.80
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.81.93.80:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰08 @schpd_chat
   type: vless
-  server: 46.38.156.158
+  server: 84.22.150.2
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /84.22.150.2:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 芬兰09 @schpd_chat
+  type: vless
+  server: 46.38.156.158
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /46.38.156.158:443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰09 @schpd_chat
-  type: vless
-  server: 83.147.192.158
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /83.147.192.158:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 芬兰10 @schpd_chat
-  type: vless
-  server: 83.147.252.203
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /83.147.252.203:443
-    headers:
-      Host: x.kkii.eu.org
-- name: 芬兰11 @schpd_chat
-  type: vless
-  server: 62.60.228.206
-  port: 2087
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.228.206:2087
-    headers:
-      Host: x.kkii.eu.org
-- name: 芬兰12 @schpd_chat
   type: vless
   server: 84.22.150.201
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /84.22.150.201:443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰13 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 芬兰11 @schpd_chat
   type: vless
-  server: 77.110.98.232
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 83.147.192.158
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /83.147.192.158:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 芬兰12 @schpd_chat
+  type: vless
+  server: 83.147.252.203
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /83.147.252.203:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 芬兰13 @schpd_chat
+  type: vless
+  server: 62.60.228.206
+  port: 2087
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /62.60.228.206:2087
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 芬兰14 @schpd_chat
+  type: vless
+  server: 77.110.98.232
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.98.232:8443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰14 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 芬兰15 @schpd_chat
   type: vless
   server: 83.147.252.184
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.252.184:443
     headers:
-      Host: x.kkii.eu.org
-- name: 芬兰15 @schpd_chat
-  type: vless
-  server: 45.38.143.131
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /45.38.143.131:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国01 @schpd_chat
   type: vless
   server: 67.159.56.152
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /67.159.56.152:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国02 @schpd_chat
   type: vless
   server: 77.110.97.204
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /77.110.97.204:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国03 @schpd_chat
   type: vless
   server: 83.147.254.63
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.254.63:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国04 @schpd_chat
   type: vless
   server: 62.60.153.23
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.153.23:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国05 @schpd_chat
   type: vless
   server: 83.147.192.201
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.192.201:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国06 @schpd_chat
   type: vless
   server: 91.186.219.217
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.186.219.217:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国07 @schpd_chat
   type: vless
   server: 62.60.228.207
   port: 8082
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.228.207:8082
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国08 @schpd_chat
   type: vless
   server: 62.60.249.174
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.249.174:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国09 @schpd_chat
   type: vless
   server: 83.147.252.246
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.252.246:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国10 @schpd_chat
   type: vless
   server: 62.60.152.180
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.152.180:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国11 @schpd_chat
   type: vless
   server: 62.60.152.211
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.152.211:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国12 @schpd_chat
   type: vless
   server: 62.60.153.32
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.153.32:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 英国13 @schpd_chat
   type: vless
-  server: 62.60.152.64
-  port: 449
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 84.22.149.83
+  port: 9443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /84.22.149.83:9443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 英国14 @schpd_chat
+  type: vless
+  server: 62.60.152.64
+  port: 449
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.152.64:449
     headers:
-      Host: x.kkii.eu.org
-- name: 英国14 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 英国15 @schpd_chat
   type: vless
   server: 62.60.237.223
   port: 8082
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.237.223:8082
     headers:
-      Host: x.kkii.eu.org
-- name: 英国15 @schpd_chat
-  type: vless
-  server: 83.147.252.227
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /83.147.252.227:443
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰01 @schpd_chat
   type: vless
   server: 151.244.93.26
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.26:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰02 @schpd_chat
   type: vless
   server: 151.244.93.8
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.8:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰03 @schpd_chat
   type: vless
   server: 151.244.93.85
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.85:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰04 @schpd_chat
   type: vless
   server: 151.244.93.77
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.77:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰05 @schpd_chat
   type: vless
   server: 151.244.93.23
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.23:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰06 @schpd_chat
   type: vless
   server: 151.244.93.31
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.31:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰07 @schpd_chat
   type: vless
   server: 151.244.93.20
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.20:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰08 @schpd_chat
   type: vless
   server: 151.244.93.29
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.29:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰09 @schpd_chat
   type: vless
   server: 62.60.235.1
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /62.60.235.1:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰10 @schpd_chat
   type: vless
   server: 151.244.93.91
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.91:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰11 @schpd_chat
   type: vless
   server: 83.147.253.18
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /83.147.253.18:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰12 @schpd_chat
   type: vless
   server: 151.244.93.28
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /151.244.93.28:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰13 @schpd_chat
   type: vless
   server: 212.34.128.170
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /212.34.128.170:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰14 @schpd_chat
   type: vless
   server: 212.34.142.54
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /212.34.142.54:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 荷兰15 @schpd_chat
   type: vless
   server: 212.34.128.155
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /212.34.128.155:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 菲律宾01 @schpd_chat
   type: vless
   server: 38.54.81.111
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /38.54.81.111:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 菲律宾02 @schpd_chat
   type: vless
   server: 61.245.11.227
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /61.245.11.227:2053
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 菲律宾03 @schpd_chat
   type: vless
   server: 61.245.10.200
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /61.245.10.200:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙01 @schpd_chat
   type: vless
   server: 208.85.21.29
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /208.85.21.29:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙02 @schpd_chat
   type: vless
   server: 95.85.89.70
   port: 81
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /95.85.89.70:81
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙03 @schpd_chat
   type: vless
   server: 193.17.183.157
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /193.17.183.157:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙04 @schpd_chat
   type: vless
   server: 185.121.15.206
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.121.15.206:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙05 @schpd_chat
   type: vless
   server: 185.121.15.76
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.121.15.76:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙06 @schpd_chat
   type: vless
   server: 91.149.243.182
   port: 7000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /91.149.243.182:7000
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙07 @schpd_chat
   type: vless
   server: 185.121.15.37
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.121.15.37:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 西班牙08 @schpd_chat
   type: vless
   server: 79.117.36.67
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /79.117.36.67:8443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 越南01 @schpd_chat
   type: vless
   server: 103.197.184.193
   port: 37461
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.197.184.193:37461
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 越南04 @schpd_chat
   type: vless
   server: 103.197.184.136
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /103.197.184.136:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 韩国01 @schpd_chat
-  type: vless
-  server: 146.56.138.33
-  port: 10443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /146.56.138.33:10443
-    headers:
-      Host: x.kkii.eu.org
-- name: 韩国02 @schpd_chat
-  type: vless
-  server: 152.70.253.84
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /152.70.253.84:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 韩国03 @schpd_chat
-  type: vless
-  server: 193.122.100.41
-  port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /193.122.100.41:8443
-    headers:
-      Host: x.kkii.eu.org
-- name: 韩国04 @schpd_chat
   type: vless
   server: 119.65.139.101
   port: 60001
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /119.65.139.101:60001
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国05 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国02 @schpd_chat
   type: vless
   server: 123.111.169.70
   port: 2083
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /123.111.169.70:2083
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国06 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国03 @schpd_chat
   type: vless
   server: 175.123.162.188
   port: 16000
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /175.123.162.188:16000
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国07 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国04 @schpd_chat
   type: vless
-  server: 175.123.172.254
-  port: 30005
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 125.133.160.129
+  port: 14430
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /125.133.160.129:14430
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 韩国05 @schpd_chat
+  type: vless
+  server: 175.123.172.254
+  port: 30005
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /175.123.172.254:30005
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国08 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国06 @schpd_chat
   type: vless
   server: 112.184.190.52
   port: 29090
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /112.184.190.52:29090
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国09 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国07 @schpd_chat
   type: vless
   server: 175.123.171.174
   port: 30001
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /175.123.171.174:30001
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国10 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国08 @schpd_chat
   type: vless
   server: 59.3.3.161
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /59.3.3.161:8443
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国11 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国09 @schpd_chat
   type: vless
   server: 175.123.171.174
   port: 30005
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /175.123.171.174:30005
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国12 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国10 @schpd_chat
   type: vless
   server: 14.53.186.206
   port: 18080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /14.53.186.206:18080
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国13 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国11 @schpd_chat
   type: vless
   server: 129.154.50.159
   port: 5443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.154.50.159:5443
     headers:
-      Host: x.kkii.eu.org
-- name: 韩国15 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国13 @schpd_chat
   type: vless
   server: 129.154.222.63
   port: 8443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /129.154.222.63:8443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港01 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 韩国14 @schpd_chat
   type: vless
-  server: 149.104.28.170
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 123.111.169.70
+  port: 2087
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /149.104.28.170:443
+    path: /123.111.169.70:2087
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
+- name: 韩国15 @schpd_chat
+  type: vless
+  server: 146.56.37.36
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /146.56.37.36:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 香港02 @schpd_chat
   type: vless
   server: 8.217.203.62
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /8.217.203.62:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 香港03 @schpd_chat
   type: vless
   server: 45.196.219.240
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.219.240:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 香港04 @schpd_chat
   type: vless
   server: 154.12.177.123
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /154.12.177.123:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 香港05 @schpd_chat
   type: vless
-  server: 154.3.33.43
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 223.16.138.113
+  port: 10002
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /223.16.138.113:10002
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 香港06 @schpd_chat
+  type: vless
+  server: 154.3.33.43
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /154.3.33.43:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港06 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港07 @schpd_chat
   type: vless
   server: 149.104.30.188
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /149.104.30.188:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港07 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港08 @schpd_chat
   type: vless
-  server: 149.104.28.9
-  port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  server: 96.9.229.173
+  port: 7443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /96.9.229.173:7443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 香港09 @schpd_chat
+  type: vless
+  server: 149.104.28.9
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /149.104.28.9:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港08 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港10 @schpd_chat
   type: vless
   server: 149.104.30.17
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /149.104.30.17:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港09 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港11 @schpd_chat
   type: vless
   server: 149.104.31.249
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /149.104.31.249:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港10 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港12 @schpd_chat
   type: vless
   server: 43.248.11.183
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /43.248.11.183:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港11 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港13 @schpd_chat
   type: vless
   server: 149.104.26.243
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /149.104.26.243:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港12 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港14 @schpd_chat
   type: vless
   server: 45.196.219.208
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /45.196.219.208:443
     headers:
-      Host: x.kkii.eu.org
-- name: 香港13 @schpd_chat
+      Host: snippets.kkii.eu.org
+- name: 香港15 @schpd_chat
   type: vless
   server: 154.12.177.58
   port: 2053
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /154.12.177.58:2053
     headers:
-      Host: x.kkii.eu.org
-- name: 香港15 @schpd_chat
-  type: vless
-  server: 46.3.109.226
-  port: 8080
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
-  cipher: auto
-  tls: true
-  udp: true
-  servername: x.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /46.3.109.226:8080
-    headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 马来西亚01 @schpd_chat
   type: vless
   server: 155.254.60.17
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /155.254.60.17:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 马来西亚02 @schpd_chat
   type: vless
   server: 23.27.28.98
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /23.27.28.98:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 - name: 马来西亚03 @schpd_chat
   type: vless
   server: 185.128.227.27
   port: 443
-  uuid: 3afad5df-e056-4301-846d-665b4ef51968
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
   udp: true
-  servername: x.kkii.eu.org
+  servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
     path: /185.128.227.27:443
     headers:
-      Host: x.kkii.eu.org
+      Host: snippets.kkii.eu.org
 proxy-groups:
 - name: ⚡ 自动选择
   type: url-test
@@ -4583,7 +4541,6 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -4630,6 +4587,7 @@ proxy-groups:
   - 德国11 @schpd_chat
   - 德国12 @schpd_chat
   - 德国13 @schpd_chat
+  - 德国14 @schpd_chat
   - 德国15 @schpd_chat
   - 捷克01 @schpd_chat
   - 捷克03 @schpd_chat
@@ -4653,11 +4611,10 @@ proxy-groups:
   - 日本05 @schpd_chat
   - 日本06 @schpd_chat
   - 日本07 @schpd_chat
-  - 日本08 @schpd_chat
   - 日本09 @schpd_chat
   - 日本11 @schpd_chat
+  - 日本12 @schpd_chat
   - 日本13 @schpd_chat
-  - 日本14 @schpd_chat
   - 日本15 @schpd_chat
   - 法国01 @schpd_chat
   - 法国02 @schpd_chat
@@ -4665,6 +4622,7 @@ proxy-groups:
   - 法国04 @schpd_chat
   - 法国05 @schpd_chat
   - 法国07 @schpd_chat
+  - 法国08 @schpd_chat
   - 法国09 @schpd_chat
   - 法国10 @schpd_chat
   - 法国11 @schpd_chat
@@ -4714,7 +4672,6 @@ proxy-groups:
   - 瑞典09 @schpd_chat
   - 瑞典10 @schpd_chat
   - 瑞典11 @schpd_chat
-  - 瑞典12 @schpd_chat
   - 瑞典13 @schpd_chat
   - 瑞典14 @schpd_chat
   - 瑞典15 @schpd_chat
@@ -4748,12 +4705,10 @@ proxy-groups:
   - 美国13 @schpd_chat
   - 美国14 @schpd_chat
   - 美国15 @schpd_chat
-  - 芬兰01 @schpd_chat
   - 芬兰02 @schpd_chat
   - 芬兰03 @schpd_chat
   - 芬兰04 @schpd_chat
   - 芬兰05 @schpd_chat
-  - 芬兰06 @schpd_chat
   - 芬兰07 @schpd_chat
   - 芬兰08 @schpd_chat
   - 芬兰09 @schpd_chat
@@ -4817,10 +4772,9 @@ proxy-groups:
   - 韩国09 @schpd_chat
   - 韩国10 @schpd_chat
   - 韩国11 @schpd_chat
-  - 韩国12 @schpd_chat
   - 韩国13 @schpd_chat
+  - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
-  - 香港01 @schpd_chat
   - 香港02 @schpd_chat
   - 香港03 @schpd_chat
   - 香港04 @schpd_chat
@@ -4833,6 +4787,7 @@ proxy-groups:
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
   - 香港13 @schpd_chat
+  - 香港14 @schpd_chat
   - 香港15 @schpd_chat
   - 马来西亚01 @schpd_chat
   - 马来西亚02 @schpd_chat
@@ -4911,7 +4866,6 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -4958,6 +4912,7 @@ proxy-groups:
   - 德国11 @schpd_chat
   - 德国12 @schpd_chat
   - 德国13 @schpd_chat
+  - 德国14 @schpd_chat
   - 德国15 @schpd_chat
   - 捷克01 @schpd_chat
   - 捷克03 @schpd_chat
@@ -4981,11 +4936,10 @@ proxy-groups:
   - 日本05 @schpd_chat
   - 日本06 @schpd_chat
   - 日本07 @schpd_chat
-  - 日本08 @schpd_chat
   - 日本09 @schpd_chat
   - 日本11 @schpd_chat
+  - 日本12 @schpd_chat
   - 日本13 @schpd_chat
-  - 日本14 @schpd_chat
   - 日本15 @schpd_chat
   - 法国01 @schpd_chat
   - 法国02 @schpd_chat
@@ -4993,6 +4947,7 @@ proxy-groups:
   - 法国04 @schpd_chat
   - 法国05 @schpd_chat
   - 法国07 @schpd_chat
+  - 法国08 @schpd_chat
   - 法国09 @schpd_chat
   - 法国10 @schpd_chat
   - 法国11 @schpd_chat
@@ -5042,7 +4997,6 @@ proxy-groups:
   - 瑞典09 @schpd_chat
   - 瑞典10 @schpd_chat
   - 瑞典11 @schpd_chat
-  - 瑞典12 @schpd_chat
   - 瑞典13 @schpd_chat
   - 瑞典14 @schpd_chat
   - 瑞典15 @schpd_chat
@@ -5076,12 +5030,10 @@ proxy-groups:
   - 美国13 @schpd_chat
   - 美国14 @schpd_chat
   - 美国15 @schpd_chat
-  - 芬兰01 @schpd_chat
   - 芬兰02 @schpd_chat
   - 芬兰03 @schpd_chat
   - 芬兰04 @schpd_chat
   - 芬兰05 @schpd_chat
-  - 芬兰06 @schpd_chat
   - 芬兰07 @schpd_chat
   - 芬兰08 @schpd_chat
   - 芬兰09 @schpd_chat
@@ -5145,10 +5097,9 @@ proxy-groups:
   - 韩国09 @schpd_chat
   - 韩国10 @schpd_chat
   - 韩国11 @schpd_chat
-  - 韩国12 @schpd_chat
   - 韩国13 @schpd_chat
+  - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
-  - 香港01 @schpd_chat
   - 香港02 @schpd_chat
   - 香港03 @schpd_chat
   - 香港04 @schpd_chat
@@ -5161,6 +5112,7 @@ proxy-groups:
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
   - 香港13 @schpd_chat
+  - 香港14 @schpd_chat
   - 香港15 @schpd_chat
   - 马来西亚01 @schpd_chat
   - 马来西亚02 @schpd_chat
