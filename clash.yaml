@@ -969,20 +969,6 @@ proxies:
     path: /129.154.251.30:8443
     headers:
       Host: snippets.kkii.eu.org
-- name: 印度12 @schpd_chat
-  type: vless
-  server: 14.99.154.250
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /14.99.154.250:443
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 印度13 @schpd_chat
   type: vless
   server: 129.151.46.160
@@ -1041,20 +1027,6 @@ proxies:
       Host: snippets.kkii.eu.org
 - name: 台湾02 @schpd_chat
   type: vless
-  server: 202.148.220.50
-  port: 10003
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /202.148.220.50:10003
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾03 @schpd_chat
-  type: vless
   server: 45.196.239.238
   port: 443
   uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
@@ -1067,21 +1039,7 @@ proxies:
     path: /45.196.239.238:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾04 @schpd_chat
-  type: vless
-  server: 202.153.4.51
-  port: 1443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /202.153.4.51:1443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾05 @schpd_chat
+- name: 台湾03 @schpd_chat
   type: vless
   server: 45.196.239.92
   port: 443
@@ -1095,7 +1053,7 @@ proxies:
     path: /45.196.239.92:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾06 @schpd_chat
+- name: 台湾04 @schpd_chat
   type: vless
   server: 45.196.239.38
   port: 443
@@ -1109,7 +1067,7 @@ proxies:
     path: /45.196.239.38:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾07 @schpd_chat
+- name: 台湾05 @schpd_chat
   type: vless
   server: 45.196.239.151
   port: 443
@@ -1123,21 +1081,7 @@ proxies:
     path: /45.196.239.151:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾08 @schpd_chat
-  type: vless
-  server: 202.148.221.231
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /202.148.221.231:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾09 @schpd_chat
+- name: 台湾06 @schpd_chat
   type: vless
   server: 45.196.238.69
   port: 443
@@ -1151,21 +1095,7 @@ proxies:
     path: /45.196.238.69:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾11 @schpd_chat
-  type: vless
-  server: 104.199.196.31
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /104.199.196.31:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾12 @schpd_chat
+- name: 台湾08 @schpd_chat
   type: vless
   server: 45.196.239.211
   port: 443
@@ -1179,35 +1109,7 @@ proxies:
     path: /45.196.239.211:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 台湾13 @schpd_chat
-  type: vless
-  server: 103.137.63.227
-  port: 8443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.137.63.227:8443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾14 @schpd_chat
-  type: vless
-  server: 103.177.33.223
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /103.177.33.223:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 台湾15 @schpd_chat
+- name: 台湾09 @schpd_chat
   type: vless
   server: 45.196.238.44
   port: 443
@@ -1219,6 +1121,76 @@ proxies:
   network: ws
   ws-opts:
     path: /45.196.238.44:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 台湾10 @schpd_chat
+  type: vless
+  server: 45.196.239.197
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.196.239.197:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 台湾12 @schpd_chat
+  type: vless
+  server: 45.196.238.248
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.196.238.248:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 台湾13 @schpd_chat
+  type: vless
+  server: 45.196.238.145
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /45.196.238.145:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 台湾14 @schpd_chat
+  type: vless
+  server: 203.69.248.40
+  port: 14147
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /203.69.248.40:14147
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 台湾15 @schpd_chat
+  type: vless
+  server: 203.69.248.40
+  port: 16000
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /203.69.248.40:16000
     headers:
       Host: snippets.kkii.eu.org
 - name: 土耳其01 @schpd_chat
@@ -2089,21 +2061,7 @@ proxies:
     path: /172.105.199.111:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 日本09 @schpd_chat
-  type: vless
-  server: 156.231.141.37
-  port: 2082
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /156.231.141.37:2082
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 日本11 @schpd_chat
+- name: 日本10 @schpd_chat
   type: vless
   server: 43.153.189.80
   port: 995
@@ -2117,10 +2075,10 @@ proxies:
     path: /43.153.189.80:995
     headers:
       Host: snippets.kkii.eu.org
-- name: 日本12 @schpd_chat
+- name: 日本13 @schpd_chat
   type: vless
-  server: 38.180.28.163
-  port: 8443
+  server: 156.231.140.164
+  port: 2083
   uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
   tls: true
@@ -2128,12 +2086,12 @@ proxies:
   servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /38.180.28.163:8443
+    path: /156.231.140.164:2083
     headers:
       Host: snippets.kkii.eu.org
-- name: 日本15 @schpd_chat
+- name: 日本14 @schpd_chat
   type: vless
-  server: 167.179.76.8
+  server: 35.77.183.185
   port: 443
   uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
   cipher: auto
@@ -2142,7 +2100,7 @@ proxies:
   servername: snippets.kkii.eu.org
   network: ws
   ws-opts:
-    path: /167.179.76.8:443
+    path: /35.77.183.185:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 智利02 @schpd_chat
@@ -3113,6 +3071,34 @@ proxies:
       Host: snippets.kkii.eu.org
 - name: 瑞士01 @schpd_chat
   type: vless
+  server: 171.22.16.231
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /171.22.16.231:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 瑞士02 @schpd_chat
+  type: vless
+  server: 171.22.16.42
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /171.22.16.42:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 瑞士03 @schpd_chat
+  type: vless
   server: 185.195.69.200
   port: 2053
   uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
@@ -3125,7 +3111,7 @@ proxies:
     path: /185.195.69.200:2053
     headers:
       Host: snippets.kkii.eu.org
-- name: 瑞士02 @schpd_chat
+- name: 瑞士04 @schpd_chat
   type: vless
   server: 91.192.102.170
   port: 8443
@@ -3139,7 +3125,7 @@ proxies:
     path: /91.192.102.170:8443
     headers:
       Host: snippets.kkii.eu.org
-- name: 瑞士03 @schpd_chat
+- name: 瑞士05 @schpd_chat
   type: vless
   server: 45.95.232.115
   port: 2053
@@ -3153,7 +3139,7 @@ proxies:
     path: /45.95.232.115:2053
     headers:
       Host: snippets.kkii.eu.org
-- name: 瑞士04 @schpd_chat
+- name: 瑞士06 @schpd_chat
   type: vless
   server: 79.132.141.165
   port: 8443
@@ -3167,7 +3153,7 @@ proxies:
     path: /79.132.141.165:8443
     headers:
       Host: snippets.kkii.eu.org
-- name: 瑞士05 @schpd_chat
+- name: 瑞士07 @schpd_chat
   type: vless
   server: 37.143.131.234
   port: 2053
@@ -3179,34 +3165,6 @@ proxies:
   network: ws
   ws-opts:
     path: /37.143.131.234:2053
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 瑞士06 @schpd_chat
-  type: vless
-  server: 171.22.16.231
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /171.22.16.231:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 瑞士07 @schpd_chat
-  type: vless
-  server: 171.22.16.235
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /171.22.16.235:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 瑞士08 @schpd_chat
@@ -3307,6 +3265,20 @@ proxies:
     path: /91.90.193.159:443
     headers:
       Host: snippets.kkii.eu.org
+- name: 瑞士15 @schpd_chat
+  type: vless
+  server: 171.22.16.253
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /171.22.16.253:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 罗马尼亚01 @schpd_chat
   type: vless
   server: 185.39.30.67
@@ -3361,6 +3333,20 @@ proxies:
   network: ws
   ws-opts:
     path: /107.161.24.195:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 美国04 @schpd_chat
+  type: vless
+  server: 64.112.40.217
+  port: 12345
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /64.112.40.217:12345
     headers:
       Host: snippets.kkii.eu.org
 - name: 美国06 @schpd_chat
@@ -3713,20 +3699,6 @@ proxies:
     path: /77.91.70.189:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 英国01 @schpd_chat
-  type: vless
-  server: 67.159.56.152
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /67.159.56.152:443
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 英国02 @schpd_chat
   type: vless
   server: 206.189.21.73
@@ -3893,20 +3865,6 @@ proxies:
   network: ws
   ws-opts:
     path: /62.60.152.211:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 英国14 @schpd_chat
-  type: vless
-  server: 62.60.153.32
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /62.60.153.32:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 英国15 @schpd_chat
@@ -4302,6 +4260,48 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
 - name: 越南04 @schpd_chat
+  type: vless
+  server: 103.197.184.194
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.197.184.194:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 越南05 @schpd_chat
+  type: vless
+  server: 103.15.91.225
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.15.91.225:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 越南07 @schpd_chat
+  type: vless
+  server: 103.15.91.95
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.15.91.95:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 越南08 @schpd_chat
   type: vless
   server: 103.197.184.136
   port: 443
@@ -4710,7 +4710,6 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -4720,10 +4719,9 @@ proxy-groups:
   - 台湾04 @schpd_chat
   - 台湾05 @schpd_chat
   - 台湾06 @schpd_chat
-  - 台湾07 @schpd_chat
   - 台湾08 @schpd_chat
   - 台湾09 @schpd_chat
-  - 台湾11 @schpd_chat
+  - 台湾10 @schpd_chat
   - 台湾12 @schpd_chat
   - 台湾13 @schpd_chat
   - 台湾14 @schpd_chat
@@ -4790,10 +4788,9 @@ proxy-groups:
   - 日本04 @schpd_chat
   - 日本06 @schpd_chat
   - 日本07 @schpd_chat
-  - 日本09 @schpd_chat
-  - 日本11 @schpd_chat
-  - 日本12 @schpd_chat
-  - 日本15 @schpd_chat
+  - 日本10 @schpd_chat
+  - 日本13 @schpd_chat
+  - 日本14 @schpd_chat
   - 智利02 @schpd_chat
   - 智利03 @schpd_chat
   - 智利04 @schpd_chat
@@ -4877,10 +4874,12 @@ proxy-groups:
   - 瑞士12 @schpd_chat
   - 瑞士13 @schpd_chat
   - 瑞士14 @schpd_chat
+  - 瑞士15 @schpd_chat
   - 罗马尼亚01 @schpd_chat
   - 美国01 @schpd_chat
   - 美国02 @schpd_chat
   - 美国03 @schpd_chat
+  - 美国04 @schpd_chat
   - 美国06 @schpd_chat
   - 美国07 @schpd_chat
   - 美国08 @schpd_chat
@@ -4906,7 +4905,6 @@ proxy-groups:
   - 芬兰13 @schpd_chat
   - 芬兰14 @schpd_chat
   - 芬兰15 @schpd_chat
-  - 英国01 @schpd_chat
   - 英国02 @schpd_chat
   - 英国03 @schpd_chat
   - 英国04 @schpd_chat
@@ -4919,7 +4917,6 @@ proxy-groups:
   - 英国11 @schpd_chat
   - 英国12 @schpd_chat
   - 英国13 @schpd_chat
-  - 英国14 @schpd_chat
   - 英国15 @schpd_chat
   - 荷兰01 @schpd_chat
   - 荷兰02 @schpd_chat
@@ -4949,6 +4946,9 @@ proxy-groups:
   - 西班牙08 @schpd_chat
   - 越南01 @schpd_chat
   - 越南04 @schpd_chat
+  - 越南05 @schpd_chat
+  - 越南07 @schpd_chat
+  - 越南08 @schpd_chat
   - 韩国06 @schpd_chat
   - 韩国07 @schpd_chat
   - 韩国08 @schpd_chat
@@ -5047,7 +5047,6 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -5057,10 +5056,9 @@ proxy-groups:
   - 台湾04 @schpd_chat
   - 台湾05 @schpd_chat
   - 台湾06 @schpd_chat
-  - 台湾07 @schpd_chat
   - 台湾08 @schpd_chat
   - 台湾09 @schpd_chat
-  - 台湾11 @schpd_chat
+  - 台湾10 @schpd_chat
   - 台湾12 @schpd_chat
   - 台湾13 @schpd_chat
   - 台湾14 @schpd_chat
@@ -5127,10 +5125,9 @@ proxy-groups:
   - 日本04 @schpd_chat
   - 日本06 @schpd_chat
   - 日本07 @schpd_chat
-  - 日本09 @schpd_chat
-  - 日本11 @schpd_chat
-  - 日本12 @schpd_chat
-  - 日本15 @schpd_chat
+  - 日本10 @schpd_chat
+  - 日本13 @schpd_chat
+  - 日本14 @schpd_chat
   - 智利02 @schpd_chat
   - 智利03 @schpd_chat
   - 智利04 @schpd_chat
@@ -5214,10 +5211,12 @@ proxy-groups:
   - 瑞士12 @schpd_chat
   - 瑞士13 @schpd_chat
   - 瑞士14 @schpd_chat
+  - 瑞士15 @schpd_chat
   - 罗马尼亚01 @schpd_chat
   - 美国01 @schpd_chat
   - 美国02 @schpd_chat
   - 美国03 @schpd_chat
+  - 美国04 @schpd_chat
   - 美国06 @schpd_chat
   - 美国07 @schpd_chat
   - 美国08 @schpd_chat
@@ -5243,7 +5242,6 @@ proxy-groups:
   - 芬兰13 @schpd_chat
   - 芬兰14 @schpd_chat
   - 芬兰15 @schpd_chat
-  - 英国01 @schpd_chat
   - 英国02 @schpd_chat
   - 英国03 @schpd_chat
   - 英国04 @schpd_chat
@@ -5256,7 +5254,6 @@ proxy-groups:
   - 英国11 @schpd_chat
   - 英国12 @schpd_chat
   - 英国13 @schpd_chat
-  - 英国14 @schpd_chat
   - 英国15 @schpd_chat
   - 荷兰01 @schpd_chat
   - 荷兰02 @schpd_chat
@@ -5286,6 +5283,9 @@ proxy-groups:
   - 西班牙08 @schpd_chat
   - 越南01 @schpd_chat
   - 越南04 @schpd_chat
+  - 越南05 @schpd_chat
+  - 越南07 @schpd_chat
+  - 越南08 @schpd_chat
   - 韩国06 @schpd_chat
   - 韩国07 @schpd_chat
   - 韩国08 @schpd_chat
