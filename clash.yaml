@@ -2509,20 +2509,6 @@ proxies:
     path: /84.247.166.22:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 法国07 @schpd_chat
-  type: vless
-  server: 95.182.97.146
-  port: 8443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /95.182.97.146:8443
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 法国08 @schpd_chat
   type: vless
   server: 185.120.59.81
@@ -5198,7 +5184,6 @@ proxy-groups:
   - 法国04 @schpd_chat
   - 法国05 @schpd_chat
   - 法国06 @schpd_chat
-  - 法国07 @schpd_chat
   - 法国08 @schpd_chat
   - 法国09 @schpd_chat
   - 法国11 @schpd_chat
@@ -5562,7 +5547,6 @@ proxy-groups:
   - 法国04 @schpd_chat
   - 法国05 @schpd_chat
   - 法国06 @schpd_chat
-  - 法国07 @schpd_chat
   - 法国08 @schpd_chat
   - 法国09 @schpd_chat
   - 法国11 @schpd_chat
