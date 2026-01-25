@@ -507,6 +507,20 @@ proxies:
     path: /188.120.239.45:2053
     headers:
       Host: snippets.kkii.eu.org
+- name: 俄罗斯06 @schpd_chat
+  type: vless
+  server: 87.251.66.210
+  port: 2096
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /87.251.66.210:2096
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯07 @schpd_chat
   type: vless
   server: 83.147.244.201
@@ -603,6 +617,20 @@ proxies:
   network: ws
   ws-opts:
     path: /94.242.53.158:2053
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 俄罗斯15 @schpd_chat
+  type: vless
+  server: 87.251.66.210
+  port: 2051
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /87.251.66.210:2051
     headers:
       Host: snippets.kkii.eu.org
 - name: 加拿大01 @schpd_chat
@@ -1009,6 +1037,20 @@ proxies:
   network: ws
   ws-opts:
     path: /129.151.46.160:444
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 印度14 @schpd_chat
+  type: vless
+  server: 103.205.143.82
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /103.205.143.82:8443
     headers:
       Host: snippets.kkii.eu.org
 - name: 印度15 @schpd_chat
@@ -5041,6 +5083,7 @@ proxy-groups:
   - 俄罗斯02 @schpd_chat
   - 俄罗斯03 @schpd_chat
   - 俄罗斯05 @schpd_chat
+  - 俄罗斯06 @schpd_chat
   - 俄罗斯07 @schpd_chat
   - 俄罗斯08 @schpd_chat
   - 俄罗斯09 @schpd_chat
@@ -5048,6 +5091,7 @@ proxy-groups:
   - 俄罗斯12 @schpd_chat
   - 俄罗斯13 @schpd_chat
   - 俄罗斯14 @schpd_chat
+  - 俄罗斯15 @schpd_chat
   - 加拿大01 @schpd_chat
   - 加拿大02 @schpd_chat
   - 加拿大03 @schpd_chat
@@ -5077,6 +5121,7 @@ proxy-groups:
   - 印度11 @schpd_chat
   - 印度12 @schpd_chat
   - 印度13 @schpd_chat
+  - 印度14 @schpd_chat
   - 印度15 @schpd_chat
   - 台湾01 @schpd_chat
   - 台湾02 @schpd_chat
@@ -5404,6 +5449,7 @@ proxy-groups:
   - 俄罗斯02 @schpd_chat
   - 俄罗斯03 @schpd_chat
   - 俄罗斯05 @schpd_chat
+  - 俄罗斯06 @schpd_chat
   - 俄罗斯07 @schpd_chat
   - 俄罗斯08 @schpd_chat
   - 俄罗斯09 @schpd_chat
@@ -5411,6 +5457,7 @@ proxy-groups:
   - 俄罗斯12 @schpd_chat
   - 俄罗斯13 @schpd_chat
   - 俄罗斯14 @schpd_chat
+  - 俄罗斯15 @schpd_chat
   - 加拿大01 @schpd_chat
   - 加拿大02 @schpd_chat
   - 加拿大03 @schpd_chat
@@ -5440,6 +5487,7 @@ proxy-groups:
   - 印度11 @schpd_chat
   - 印度12 @schpd_chat
   - 印度13 @schpd_chat
+  - 印度14 @schpd_chat
   - 印度15 @schpd_chat
   - 台湾01 @schpd_chat
   - 台湾02 @schpd_chat
