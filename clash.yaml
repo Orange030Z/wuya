@@ -647,20 +647,6 @@ proxies:
     path: /148.113.200.194:2053
     headers:
       Host: snippets.kkii.eu.org
-- name: 印尼01 @schpd_chat
-  type: vless
-  server: 43.218.77.16
-  port: 1443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /43.218.77.16:1443
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 印尼02 @schpd_chat
   type: vless
   server: 43.218.77.16
@@ -4693,20 +4679,6 @@ proxies:
     path: /154.12.177.123:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 香港07 @schpd_chat
-  type: vless
-  server: 149.104.31.235
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /149.104.31.235:443
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 香港08 @schpd_chat
   type: vless
   server: 154.12.177.58
@@ -4719,6 +4691,20 @@ proxies:
   network: ws
   ws-opts:
     path: /154.12.177.58:2053
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 香港09 @schpd_chat
+  type: vless
+  server: 156.224.76.183
+  port: 8080
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /156.224.76.183:8080
     headers:
       Host: snippets.kkii.eu.org
 - name: 香港10 @schpd_chat
@@ -4883,7 +4869,6 @@ proxy-groups:
   - 加拿大03 @schpd_chat
   - 加拿大05 @schpd_chat
   - 加拿大06 @schpd_chat
-  - 印尼01 @schpd_chat
   - 印尼02 @schpd_chat
   - 印尼03 @schpd_chat
   - 印尼04 @schpd_chat
@@ -5172,8 +5157,8 @@ proxy-groups:
   - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
-  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
+  - 香港09 @schpd_chat
   - 香港10 @schpd_chat
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
@@ -5234,7 +5219,6 @@ proxy-groups:
   - 加拿大03 @schpd_chat
   - 加拿大05 @schpd_chat
   - 加拿大06 @schpd_chat
-  - 印尼01 @schpd_chat
   - 印尼02 @schpd_chat
   - 印尼03 @schpd_chat
   - 印尼04 @schpd_chat
@@ -5523,8 +5507,8 @@ proxy-groups:
   - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
-  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
+  - 香港09 @schpd_chat
   - 香港10 @schpd_chat
   - 香港11 @schpd_chat
   - 香港12 @schpd_chat
