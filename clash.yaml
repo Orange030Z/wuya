@@ -311,6 +311,20 @@ proxies:
     path: /178.17.50.62:443
     headers:
       Host: snippets.kkii.eu.org
+- name: 伊拉克05 @schpd_chat
+  type: vless
+  server: 178.17.48.178
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /178.17.48.178:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 伊拉克07 @schpd_chat
   type: vless
   server: 178.17.51.143
@@ -941,6 +955,20 @@ proxies:
     path: /129.154.251.30:8443
     headers:
       Host: snippets.kkii.eu.org
+- name: 印度12 @schpd_chat
+  type: vless
+  server: 14.99.154.250
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /14.99.154.250:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 印度13 @schpd_chat
   type: vless
   server: 129.151.46.160
@@ -1331,20 +1359,6 @@ proxies:
   network: ws
   ws-opts:
     path: /103.231.75.115:443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 土耳其12 @schpd_chat
-  type: vless
-  server: 185.212.113.14
-  port: 2051
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /185.212.113.14:2051
     headers:
       Host: snippets.kkii.eu.org
 - name: 土耳其14 @schpd_chat
@@ -2997,20 +3011,6 @@ proxies:
   network: ws
   ws-opts:
     path: /77.110.96.130:8443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 瑞典08 @schpd_chat
-  type: vless
-  server: 41.216.182.105
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /41.216.182.105:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 瑞典09 @schpd_chat
@@ -4679,6 +4679,20 @@ proxies:
     path: /154.12.177.123:443
     headers:
       Host: snippets.kkii.eu.org
+- name: 香港07 @schpd_chat
+  type: vless
+  server: 149.104.31.235
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /149.104.31.235:443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 香港08 @schpd_chat
   type: vless
   server: 154.12.177.58
@@ -4845,6 +4859,7 @@ proxy-groups:
   - 伊拉克02 @schpd_chat
   - 伊拉克03 @schpd_chat
   - 伊拉克04 @schpd_chat
+  - 伊拉克05 @schpd_chat
   - 伊拉克07 @schpd_chat
   - 伊拉克08 @schpd_chat
   - 伊拉克09 @schpd_chat
@@ -4890,6 +4905,7 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
+  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -4918,7 +4934,6 @@ proxy-groups:
   - 土耳其09 @schpd_chat
   - 土耳其10 @schpd_chat
   - 土耳其11 @schpd_chat
-  - 土耳其12 @schpd_chat
   - 土耳其14 @schpd_chat
   - 墨西哥01 @schpd_chat
   - 墨西哥02 @schpd_chat
@@ -5037,7 +5052,6 @@ proxy-groups:
   - 瑞典04 @schpd_chat
   - 瑞典06 @schpd_chat
   - 瑞典07 @schpd_chat
-  - 瑞典08 @schpd_chat
   - 瑞典09 @schpd_chat
   - 瑞典10 @schpd_chat
   - 瑞典11 @schpd_chat
@@ -5157,6 +5171,7 @@ proxy-groups:
   - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
+  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
   - 香港09 @schpd_chat
   - 香港10 @schpd_chat
@@ -5195,6 +5210,7 @@ proxy-groups:
   - 伊拉克02 @schpd_chat
   - 伊拉克03 @schpd_chat
   - 伊拉克04 @schpd_chat
+  - 伊拉克05 @schpd_chat
   - 伊拉克07 @schpd_chat
   - 伊拉克08 @schpd_chat
   - 伊拉克09 @schpd_chat
@@ -5240,6 +5256,7 @@ proxy-groups:
   - 印度09 @schpd_chat
   - 印度10 @schpd_chat
   - 印度11 @schpd_chat
+  - 印度12 @schpd_chat
   - 印度13 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
@@ -5268,7 +5285,6 @@ proxy-groups:
   - 土耳其09 @schpd_chat
   - 土耳其10 @schpd_chat
   - 土耳其11 @schpd_chat
-  - 土耳其12 @schpd_chat
   - 土耳其14 @schpd_chat
   - 墨西哥01 @schpd_chat
   - 墨西哥02 @schpd_chat
@@ -5387,7 +5403,6 @@ proxy-groups:
   - 瑞典04 @schpd_chat
   - 瑞典06 @schpd_chat
   - 瑞典07 @schpd_chat
-  - 瑞典08 @schpd_chat
   - 瑞典09 @schpd_chat
   - 瑞典10 @schpd_chat
   - 瑞典11 @schpd_chat
@@ -5507,6 +5522,7 @@ proxy-groups:
   - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
+  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
   - 香港09 @schpd_chat
   - 香港10 @schpd_chat
