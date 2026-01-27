@@ -44,6 +44,7 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@35.183.216.163:2053?encryption=none
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@68.233.122.42:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/68.233.122.42:443#加拿大03 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@148.113.200.194:8443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/148.113.200.194:8443#加拿大05 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@148.113.200.194:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/148.113.200.194:2053#加拿大06 @schpd_chat
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:1443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/43.218.77.16:1443#印尼01 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/43.218.77.16:443#印尼02 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@103.178.153.100:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/103.178.153.100:443#印尼03 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@103.6.207.108:19224?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/103.6.207.108:19224#印尼04 @schpd_chat
@@ -65,7 +66,6 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@141.148.219.5:444?encryption=none&s
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@80.225.202.29:444?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/80.225.202.29:444#印度09 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@144.24.105.6:444?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/144.24.105.6:444#印度10 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@129.154.251.30:8443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/129.154.251.30:8443#印度11 @schpd_chat
-vless://5a2c16f9-e365-4080-8d38-6924c3835586@14.99.154.250:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/14.99.154.250:443#印度12 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@129.151.46.160:444?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/129.151.46.160:444#印度13 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@103.205.143.82:8443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/103.205.143.82:8443#印度14 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@64.227.174.213:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/64.227.174.213:2053#印度15 @schpd_chat
@@ -112,6 +112,8 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@148.227.167.113:2095?encryption=non
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@148.227.167.45:2095?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/148.227.167.45:2095#墨西哥14 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@148.227.167.151:2095?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/148.227.167.151:2095#墨西哥15 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@38.54.42.124:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/38.54.42.124:443#孟加拉01 @schpd_chat
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@132.226.163.224:8443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/132.226.163.224:8443#巴西01 @schpd_chat
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@132.226.163.224:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/132.226.163.224:2053#巴西02 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@146.235.59.153:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/146.235.59.153:2053#巴西03 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@178.236.254.234:444?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/178.236.254.234:444#德国01 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@178.236.254.135:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/178.236.254.135:443#德国02 @schpd_chat
@@ -333,7 +335,6 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@154.12.178.76:10443?encryption=none
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@154.12.177.123:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/154.12.177.123:443#香港06 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@149.104.31.235:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/149.104.31.235:443#香港07 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@154.12.177.58:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/154.12.177.58:2053#香港08 @schpd_chat
-vless://5a2c16f9-e365-4080-8d38-6924c3835586@156.224.76.183:8080?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/156.224.76.183:8080#香港09 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.161.237.11:30005?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/43.161.237.11:30005#香港10 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@103.135.248.51:8082?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/103.135.248.51:8082#香港11 @schpd_chat
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@83.229.121.12:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/83.229.121.12:443#香港12 @schpd_chat
