@@ -2005,6 +2005,20 @@ proxies:
     path: /116.251.217.107:443
     headers:
       Host: snippets.kkii.eu.org
+- name: 新加坡15 @schpd_chat
+  type: vless
+  server: 116.251.217.108
+  port: 4443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /116.251.217.108:4443
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 日本01 @schpd_chat
   type: vless
   server: 139.162.108.5
@@ -2143,6 +2157,20 @@ proxies:
   network: ws
   ws-opts:
     path: /64.176.4.154:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 智利03 @schpd_chat
+  type: vless
+  server: 216.73.159.172
+  port: 2053
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /216.73.159.172:2053
     headers:
       Host: snippets.kkii.eu.org
 - name: 智利05 @schpd_chat
@@ -2367,20 +2395,6 @@ proxies:
   network: ws
   ws-opts:
     path: /45.95.233.206:2053
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 法国11 @schpd_chat
-  type: vless
-  server: 188.130.207.192
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /188.130.207.192:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 法国12 @schpd_chat
@@ -3461,20 +3475,6 @@ proxies:
     path: /45.156.22.52:2053
     headers:
       Host: snippets.kkii.eu.org
-- name: 芬兰07 @schpd_chat
-  type: vless
-  server: 46.8.230.217
-  port: 2053
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /46.8.230.217:2053
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 芬兰08 @schpd_chat
   type: vless
   server: 46.8.236.104
@@ -3501,6 +3501,20 @@ proxies:
   network: ws
   ws-opts:
     path: /91.184.243.247:8082
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 芬兰10 @schpd_chat
+  type: vless
+  server: 91.211.114.165
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /91.211.114.165:8443
     headers:
       Host: snippets.kkii.eu.org
 - name: 芬兰11 @schpd_chat
@@ -4455,34 +4469,6 @@ proxies:
     path: /43.161.214.157:443
     headers:
       Host: snippets.kkii.eu.org
-- name: 香港02 @schpd_chat
-  type: vless
-  server: 45.120.216.34
-  port: 20000
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /45.120.216.34:20000
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 香港03 @schpd_chat
-  type: vless
-  server: 46.232.122.240
-  port: 8000
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /46.232.122.240:8000
-    headers:
-      Host: snippets.kkii.eu.org
 - name: 香港05 @schpd_chat
   type: vless
   server: 154.12.178.76
@@ -4509,6 +4495,20 @@ proxies:
   network: ws
   ws-opts:
     path: /154.12.177.123:443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 香港07 @schpd_chat
+  type: vless
+  server: 149.104.31.235
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /149.104.31.235:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 香港08 @schpd_chat
@@ -4551,6 +4551,20 @@ proxies:
   network: ws
   ws-opts:
     path: /43.161.237.11:30005
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 香港12 @schpd_chat
+  type: vless
+  server: 83.229.121.12
+  port: 443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /83.229.121.12:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 香港13 @schpd_chat
@@ -4770,6 +4784,7 @@ proxy-groups:
   - 新加坡12 @schpd_chat
   - 新加坡13 @schpd_chat
   - 新加坡14 @schpd_chat
+  - 新加坡15 @schpd_chat
   - 日本01 @schpd_chat
   - 日本04 @schpd_chat
   - 日本05 @schpd_chat
@@ -4780,6 +4795,7 @@ proxy-groups:
   - 日本13 @schpd_chat
   - 日本14 @schpd_chat
   - 智利02 @schpd_chat
+  - 智利03 @schpd_chat
   - 智利05 @schpd_chat
   - 柬埔寨01 @schpd_chat
   - 柬埔寨03 @schpd_chat
@@ -4796,7 +4812,6 @@ proxy-groups:
   - 法国07 @schpd_chat
   - 法国08 @schpd_chat
   - 法国09 @schpd_chat
-  - 法国11 @schpd_chat
   - 法国12 @schpd_chat
   - 法国13 @schpd_chat
   - 法国14 @schpd_chat
@@ -4874,9 +4889,9 @@ proxy-groups:
   - 芬兰04 @schpd_chat
   - 芬兰05 @schpd_chat
   - 芬兰06 @schpd_chat
-  - 芬兰07 @schpd_chat
   - 芬兰08 @schpd_chat
   - 芬兰09 @schpd_chat
+  - 芬兰10 @schpd_chat
   - 芬兰11 @schpd_chat
   - 芬兰12 @schpd_chat
   - 芬兰13 @schpd_chat
@@ -4945,13 +4960,13 @@ proxy-groups:
   - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
   - 香港01 @schpd_chat
-  - 香港02 @schpd_chat
-  - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
+  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
   - 香港09 @schpd_chat
   - 香港10 @schpd_chat
+  - 香港12 @schpd_chat
   - 香港13 @schpd_chat
   - 香港14 @schpd_chat
   - 香港15 @schpd_chat
@@ -5106,6 +5121,7 @@ proxy-groups:
   - 新加坡12 @schpd_chat
   - 新加坡13 @schpd_chat
   - 新加坡14 @schpd_chat
+  - 新加坡15 @schpd_chat
   - 日本01 @schpd_chat
   - 日本04 @schpd_chat
   - 日本05 @schpd_chat
@@ -5116,6 +5132,7 @@ proxy-groups:
   - 日本13 @schpd_chat
   - 日本14 @schpd_chat
   - 智利02 @schpd_chat
+  - 智利03 @schpd_chat
   - 智利05 @schpd_chat
   - 柬埔寨01 @schpd_chat
   - 柬埔寨03 @schpd_chat
@@ -5132,7 +5149,6 @@ proxy-groups:
   - 法国07 @schpd_chat
   - 法国08 @schpd_chat
   - 法国09 @schpd_chat
-  - 法国11 @schpd_chat
   - 法国12 @schpd_chat
   - 法国13 @schpd_chat
   - 法国14 @schpd_chat
@@ -5210,9 +5226,9 @@ proxy-groups:
   - 芬兰04 @schpd_chat
   - 芬兰05 @schpd_chat
   - 芬兰06 @schpd_chat
-  - 芬兰07 @schpd_chat
   - 芬兰08 @schpd_chat
   - 芬兰09 @schpd_chat
+  - 芬兰10 @schpd_chat
   - 芬兰11 @schpd_chat
   - 芬兰12 @schpd_chat
   - 芬兰13 @schpd_chat
@@ -5281,13 +5297,13 @@ proxy-groups:
   - 韩国14 @schpd_chat
   - 韩国15 @schpd_chat
   - 香港01 @schpd_chat
-  - 香港02 @schpd_chat
-  - 香港03 @schpd_chat
   - 香港05 @schpd_chat
   - 香港06 @schpd_chat
+  - 香港07 @schpd_chat
   - 香港08 @schpd_chat
   - 香港09 @schpd_chat
   - 香港10 @schpd_chat
+  - 香港12 @schpd_chat
   - 香港13 @schpd_chat
   - 香港14 @schpd_chat
   - 香港15 @schpd_chat
