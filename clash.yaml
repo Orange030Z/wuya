@@ -563,6 +563,34 @@ proxies:
     path: /83.147.252.186:443
     headers:
       Host: snippets.kkii.eu.org
+- name: 俄罗斯11 @schpd_chat
+  type: vless
+  server: 213.165.60.83
+  port: 8443
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /213.165.60.83:8443
+    headers:
+      Host: snippets.kkii.eu.org
+- name: 俄罗斯12 @schpd_chat
+  type: vless
+  server: 195.208.165.237
+  port: 8889
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  cipher: auto
+  tls: true
+  udp: true
+  servername: snippets.kkii.eu.org
+  network: ws
+  ws-opts:
+    path: /195.208.165.237:8889
+    headers:
+      Host: snippets.kkii.eu.org
 - name: 俄罗斯13 @schpd_chat
   type: vless
   server: 45.151.62.65
@@ -939,20 +967,6 @@ proxies:
   network: ws
   ws-opts:
     path: /129.154.251.30:8443
-    headers:
-      Host: snippets.kkii.eu.org
-- name: 印度12 @schpd_chat
-  type: vless
-  server: 14.99.154.250
-  port: 443
-  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
-  cipher: auto
-  tls: true
-  udp: true
-  servername: snippets.kkii.eu.org
-  network: ws
-  ws-opts:
-    path: /14.99.154.250:443
     headers:
       Host: snippets.kkii.eu.org
 - name: 印度14 @schpd_chat
@@ -4709,6 +4723,8 @@ proxy-groups:
   - 俄罗斯07 @schpd_chat
   - 俄罗斯08 @schpd_chat
   - 俄罗斯09 @schpd_chat
+  - 俄罗斯11 @schpd_chat
+  - 俄罗斯12 @schpd_chat
   - 俄罗斯13 @schpd_chat
   - 俄罗斯14 @schpd_chat
   - 加拿大01 @schpd_chat
@@ -4736,7 +4752,6 @@ proxy-groups:
   - 印度06 @schpd_chat
   - 印度07 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
   - 台湾01 @schpd_chat
@@ -5048,6 +5063,8 @@ proxy-groups:
   - 俄罗斯07 @schpd_chat
   - 俄罗斯08 @schpd_chat
   - 俄罗斯09 @schpd_chat
+  - 俄罗斯11 @schpd_chat
+  - 俄罗斯12 @schpd_chat
   - 俄罗斯13 @schpd_chat
   - 俄罗斯14 @schpd_chat
   - 加拿大01 @schpd_chat
@@ -5075,7 +5092,6 @@ proxy-groups:
   - 印度06 @schpd_chat
   - 印度07 @schpd_chat
   - 印度11 @schpd_chat
-  - 印度12 @schpd_chat
   - 印度14 @schpd_chat
   - 印度15 @schpd_chat
   - 台湾01 @schpd_chat
